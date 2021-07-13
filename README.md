@@ -24,23 +24,23 @@ Write something....
 
 No.|Title|Translation（参考）|Company
 :-------: | :---------------: | :------------: | :-------:
-1|[《A Declarative Query Language for Data Provenance》]()|《数据来源的声明式查询语言》|
-2|[《A Hierarchical Bloom Filter Index with Applications to Distributed Data Provenance》]()|《应用于分布式数据来源的分层Bloom过滤器索引》|
-3|[《A Model for Learned Bloom Filters,and Optimizing by Sandwiching》]()|《学习布隆过滤器的模型，并通过三明治优化》|
-4|[《A Multi-attribute Data Structure with Parallel Bloom Filters for Network Services》]()|《一种用于网络服务的具有并行Bloom过滤器的多属性数据结构》| 
-5|[《Accelerating Braided B+ Tree Searches on a GPU with CUDA》]()|《使用CUDA加速GPU上的编织B+树搜索》|  
-6|[《Acoustics to the Rescue Physical Key Inference Attack Revisited》]()|《声学对救援物理密钥推理攻击的再探讨》|
-7|[《Adaptive Learned Bloom Filter (Ada-BF) Efficient Utilization of the Classifier with Application to Real-Time Information Filtering on the Web》]()|《自适应学习布鲁姆滤波器(Ada-BF)分类器的高效利用及其在Web实时信息过滤中的应用》|
-8|[《An Improved Construction for Counting Bloom Filters》]()|《一种计算布隆过滤器的改进结构》|
-9|[《An Introduction to Bε-trees and Write-Optimization》]()|《b+树与写优化简介》|
-10|[《Analysis of Encryption Algorithms to Basic Operations on Outsourced B+ Data Privacy》]()|《外包B+数据隐私基本操作的加密算法分析》|
-11|[《Analysis of B tree data structure and its usage in computer forensics》]()|《B树数据结构分析及其在计算机取证中的应用》|
-11|[《B+ TREES》]()|《B+树》|
-12|[《Benchmarking a B-tree compression method》]()|《b树压缩方法的基准测试》|
-13|[《Blitz Secure Multi-Hop Payments Without Two-Phase Commits》]()|《闪电战安全多跳支付没有两阶段提交》|
-14|[《Bloom Filters – Short Tutorial》]()|《布隆过滤器-简短的教程》|
-15|[《Bloom Filters Design Innovations and Novel Applications》]()|《布隆过滤器设计创新和新颖的应用》|
-16|[《Bloom Filters in Adversarial Environments》]()|《在敌对环境中的布隆过滤器》|
+1|[《A Declarative Query Language for Data Provenance》]()|《数据来源的声明式查询语言》|福斯-计算机科学研究所
+2|[《A Hierarchical Bloom Filter Index with Applications to Distributed Data Provenance》]()|《应用于分布式数据来源的分层Bloom过滤器索引》|美国海军学院
+3|[《A Model for Learned Bloom Filters,and Optimizing by Sandwiching》]()|《学习布隆过滤器的模型，并通过三明治优化》|哈佛大学
+4|[《A Multi-attribute Data Structure with Parallel Bloom Filters for Network Services》]()|《一种用于网络服务的具有并行Bloom过滤器的多属性数据结构》| 华中科技大学
+5|[《Accelerating Braided B+ Tree Searches on a GPU with CUDA》]()|《使用CUDA加速GPU上的编织B+树搜索》| 弗吉尼亚大学计算机科学系
+6|[《Acoustics to the Rescue Physical Key Inference Attack Revisited》]()|《声学对救援物理密钥推理攻击的再探讨》|新加坡国立大学
+7|[《Adaptive Learned Bloom Filter (Ada-BF) Efficient Utilization of the Classifier with Application to Real-Time Information Filtering on the Web》]()|《自适应学习布鲁姆滤波器(Ada-BF)分类器的高效利用及其在Web实时信息过滤中的应用》|莱斯大学
+8|[《An Improved Construction for Counting Bloom Filters》]()|《一种计算布隆过滤器的改进结构》|哈佛大学
+9|[《An Introduction to Bε-trees and Write-Optimization》]()|《b+树与写优化简介》|google
+10|[《Analysis of Encryption Algorithms to Basic Operations on Outsourced B+ Data Privacy》]()|《外包B+数据隐私基本操作的加密算法分析》|google
+11|[《Analysis of B tree data structure and its usage in computer forensics》]()|《B树数据结构分析及其在计算机取证中的应用》|萨格勒布大学
+11|[《B+ TREES》]()|《B+树》|微软
+12|[《Benchmarking a B-tree compression method》]()|《b树压缩方法的基准测试》|奥斯特拉瓦技术大学
+13|[《Blitz Secure Multi-Hop Payments Without Two-Phase Commits》]()|《闪电战安全多跳支付没有两阶段提交》|twitter
+14|[《Bloom Filters – Short Tutorial》]()|《布隆过滤器-简短的教程》|google
+15|[《Bloom Filters Design Innovations and Novel Applications》]()|《布隆过滤器设计创新和新颖的应用》|斯坦福大学
+16|[《Bloom Filters in Adversarial Environments》]()|《在敌对环境中的布隆过滤器》|google
 17|[《Bloom Filters》]()|《布隆过滤器》|
 18|[《B+ Tree A Predictive B+-Tree for Reducing Writes on Phase Change Memory》]()|《用于减少相变存储器写操作的预测B+树》|
 19|[《Cache Efficient Bloom Filters for Shared Memory Machines》]()|《为共享内存机器缓存高效Bloom过滤器》|
