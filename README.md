@@ -22,15 +22,19 @@ Write something....
   
 <div align=center>
 
-No.|Title|Translation|Company
+No.|Title|Translation（参考）|Company
 :-------: | :---------------: | :------------: | :-------:
-1|《A Hierarchical Bloom Filter Index with Applications to Distributed Data Provenance》|《应用于分布式数据来源的分层Bloom过滤器索引》|
-2|《A Multi-attribute Data Structure with Parallel Bloom Filters for Network Services》|《一种用于网络服务的具有并行Bloom过滤器的多属性数据结构》|
-3|《Accelerating Braided B+ Tree Searches on a GPU with CUDA》|《使用CUDA加速GPU上的编织B+树搜索》|
-4|《An Improved Construction for Counting Bloom Filters》|《一种计算布隆过滤器的改进结构》| 
-5|《An Introduction to Bε-trees and Write-Optimization》|《b ε-树与写优化简介》|  
-6|《Analysis of Encryption Algorithms to Basic Operations on Outsourced B+ Data Privacy》|《外包B+数据隐私基本操作的加密算法分析》|
-7|《Analysis of B-tree data structure and its usage in computer forensics》|《B树数据结构分析及其在计算机取证中的应用》|
+1|[《A Declarative Query Language for Data Provenance》]()|《数据来源的声明式查询语言》|
+2|[《A Hierarchical Bloom Filter Index with Applications to Distributed Data Provenance》]()|《应用于分布式数据来源的分层Bloom过滤器索引》|
+3|[《A Model for Learned Bloom Filters,and Optimizing by Sandwiching》]()|《学习布隆过滤器的模型，并通过三明治优化》|
+4|[《A Multi-attribute Data Structure with Parallel Bloom Filters for Network Services》]()|《一种用于网络服务的具有并行Bloom过滤器的多属性数据结构》| 
+5|[《Accelerating Braided B+ Tree Searches on a GPU with CUDA》]()|《使用CUDA加速GPU上的编织B+树搜索》|  
+6|[《Acoustics to the Rescue Physical Key Inference Attack Revisited》]()|《声学对救援物理密钥推理攻击的再探讨》|
+7|[《Adaptive Learned Bloom Filter (Ada-BF) Efficient Utilization of the Classifier with Application to Real-Time Information Filtering on the Web》]()|《自适应学习布鲁姆滤波器(Ada-BF)分类器的高效利用及其在Web实时信息过滤中的应用》|
+8|[《An Improved Construction for Counting Bloom Filters》]()|《一种计算布隆过滤器的改进结构》|
+9|[《An Introduction to Bε-trees and Write-Optimization》]()|《b+树与写优化简介》|
+10|[《Analysis of Encryption Algorithms to Basic Operations on Outsourced B+ Data Privacy》]()|《外包B+数据隐私基本操作的加密算法分析》|
+11|[《Analysis of B tree data structure and its usage in computer forensics》]()|《B树数据结构分析及其在计算机取证中的应用》|
 
 </div>
 
