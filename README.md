@@ -18,12 +18,19 @@ Write something....
 
 
 ---
-<h3 id="1">🔨 精进基础<h3>
+<h3 id="1">🔨 精进基础</h3>
+  
 <div align=center>
-    
+
 No.|Title|Translation|Download
 :-------: | :---------------: | :------------: | :-------:
-1|《Constructing Red-Black Trees》.pdf|《构建“红-黑”树》|[go]()
+1|《A Hierarchical Bloom Filter Index with Applications to Distributed Data Provenance》|《应用于分布式数据来源的分层Bloom过滤器索引》|[go]()
+2|《A Multi-attribute Data Structure with Parallel Bloom Filters for Network Services》|《一种用于网络服务的具有并行Bloom过滤器的多属性数据结构》|[go]()
+3|《Accelerating Braided B+ Tree Searches on a GPU with CUDA》|《使用CUDA加速GPU上的编织B+树搜索》|[go]()
+4|《An Improved Construction for Counting Bloom Filters》|《一种计算布隆过滤器的改进结构》|[go]()  
+5|《An Introduction to Bε-trees and Write-Optimization》|《b ε-树与写优化简介》|[go]()  
+6|《Analysis of Encryption Algorithms to Basic Operations on Outsourced B+ Data Privacy》|《外包B+数据隐私基本操作的加密算法分析》|[go]()  
+7|《Analysis of B-tree data structure and its usage in computer forensics》|《B树数据结构分析及其在计算机取证中的应用》|[go]()  
 
 </div>
 
