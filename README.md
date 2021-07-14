@@ -117,83 +117,83 @@ No.|Title|Translation（参考）|Company
 
 No.|Title|Translation（参考）|Company
 :-------: | :---------------: | :------------: | :-------:
-1|[《A component-based approach to the design of networked control systems》]()|《一种基于组件的网络化控制系统设计方法》|
-2|[《A Decision-Analytic Approach for P2P Cooperation Policy Setting》]()|《一种P2P合作策略设置的决策分析方法》|
-3|[《A Design and Implementation of Active Network Socket Programming》]()|《一种主动网络套接字编程的设计与实现》|
-4|[《A Look Back at “Security Problems in the TCPIP Protocol Suite”》]()|《回顾“TCPIP协议套件中的安全问题”》|
-5|[《A P2P VIDEO DELIVERY NETWORK (P2P-VDN)》]()|《p2p视频分发网络(p2p - vdn)》|
-6|[《A proposal to add coroutines to the C++ standard library (Revision 1)》]()|《在c++标准库中添加协程的建议(修订版1)》|
-7|[《A Simple Model for Analyzing P2P Streaming Protocols》]()|《一个分析P2P流协议的简单模型》|
-8|[《A Survey of Asynchronous Programming Using Coroutines in the Internet of Things and Embedded Systems》]()|《物联网与嵌入式系统中协程异步编程研究综述》|
-9|[《A verified abstract machine for functional coroutines》]()|《功能性协程的验证抽象机器》|
-10|[《Adding async RAII support to coroutines》]()|《向协程添加异步RAII支持》|
-11|[《Attaining the Promise and Avoiding the Pitfalls of TCP in the Datacenter》]()|《在数据中心中实现TCP的承诺和避免TCP的缺陷》|
-12|[《Base of the Networking Protocol – TCPIP Its Design and Security Aspects》]()|《基于网络协议—TCPIP的设计和安全方面》|
-13|[《Beej’s Guide to Network Programming》]()|《Beej的网络编程指南》|
-14|[《Bitcoin A Peer-to-Peer Electronic Cash System》]()|《比特币——点对点电子现金系统》|
-15|[《Combining TCP and UDP for Secure Data Transfer》]()|《结合TCP和UDP的安全数据传输》|
-16|[《Comparative Evaluation of Kernel Bypass Mechanisms for High-performance Inter-container Communications》]()|《用于高性能容器间通信的内核旁路机制的比较评估》|
-17|[《Configtron Tackling network diversity with heterogeneous configurations》]()|《Configtron通过异构配置解决网络多样性问题》|
-18|[《Coroutines TS for C++20》]()|《协程TS for C++20》|
-19|[《Designs and Evaluation of a Tracker in P2P Networks》]()|《P2P网络中跟踪器的设计与评估》|
-20|[《Dissecting Performance of Production QUIC》]()|《生产QUIC性能剖析》|
-21|[《Embedding Covert Channels into TCP/IP》]()|《嵌入隐蔽通道到TCP/IP》|
-22|[《Evaluating Predictors of Congestion Collapse in Communication Networks》]()|《通信网络拥塞崩溃预测器的评估》|
-23|[《Full TCP/IP for 8-Bit Architectures》]()|《8位架构的全TCP/IP》|
-24|[《High-speed Software Data Plane via Vectorized Packet Processing》]()|《基于矢量分组处理的高速软件数据平面》|
-25|[《Incremental Approach Coroutine TS + Core Coroutines》]()|《增量方法协程TS +核心协程》|
-26|[《Innovating Transport with QUIC Design Approaches and Research Challenges》]()|《利用QUIC设计方法和研究挑战创新运输》|
-27|[《Interaction between TCP and UDP flows in Wireless Multi-hop Ad hoc Networks》]()|《无线多跳Ad hoc网络中TCP和UDP流的交互》|
-28|[《Introduction to TCP/IP Network Attacks》]()|《TCP/IP网络攻击简介》|
-29|[《JAVA NETWORK PROGRAMMING USING SOCKET》]()|《使用套接字进行Java网络编程》|
-30|[《Kademlia A Peer-to-peer Information System Based on the XOR Metric》]()|《基于异或度量的点对点信息系统》|
-31|[《MIMIQ Masking IPs with Migration in QUIC》]()|《MIMIQ在QUIC中使用迁移屏蔽ip》|
-32|[《mTCP A Highly Scalable User-level TCP Stack for Multicore Systems》]()|《一个用于多核系统的高度可扩展的用户级TCP堆栈》|
-33|[《NetKAT Semantic Foundations for Networks》]()|《网络语义基础》|
-34|[《netmap a novel framework for fast packet IO》]()|《netmap是一种用于快速数据包IO的新框架》|
-35|[《netmap Memory Mapped Access To Network Devices》]()|《netmap内存映射访问网络设备》|
-36|[《Network Application Frameworks》]()|《网络应用程序框架》|
-37|[《Network Programming in Age of Empires and Beyond》]()|《《帝国时代》中的网络编程》|
-38|[《Network Programming》]()|《网络程序设计》|
-39|[《Observations of UDP to TCP Ratio and Port Numbers》]()|《UDP到TCP比率和端口号的观察》|
-40|[《Operational Semantics for Declarative Networking》]()|《声明式网络的操作语义》|
-41|[《OReilly - Java Network Programming 2ed》]()|《orilly - Java网络编程2ed》|
-43|[《P2P File-Sharing in Hell Exploiting BitTorrent Vulnerabilities to Launch Distributed Reflective DoS Attacks》]()|《地狱中的P2P文件共享利用BitTorrent漏洞发起分布式反射DoS攻击》|
-44|[《packetdrill Scriptable Network Stack Testing, from Sockets to Packets》]()|《脚本化的网络堆栈测试，从套接字到包》|
-45|[《Payload Caching High-Speed Data Forwarding for Network Intermediaries》]()|《有效载荷缓存用于网络中介的高速数据转发》|
-46|[《Peer-to-Peer (P2P) File Sharing Applications and their Threat to the Corporate Environment》]()|《点对点(P2P)文件共享应用程序及其对企业环境的威胁》|
-47|[《Peer-to-Peer Architecture Case Study Gnutella Network》]()|《点对点架构案例研究Gnutella网络》|
-48|[《Performance of TCP/IP Over Next Generation Broadband Wireless Access Networks》]()|《下一代宽带无线接入网络的TCP/IP性能》|
-49|[《Performance of UDP and TCP Communication on Personal Computers》]()|《UDP和TCP在个人电脑上的通信性能》|
-50|[《Performant TCP for Low-Power Wireless Networks》]()|《用于低功耗无线网络的高性能TCP》|
-51|[《Portable Desktop Applications Based on P2P Transportation and Virtualization》]()|《基于P2P传输和虚拟化的便携式桌面应用》|
-52|[《Proceedings of the First Symposium onNetworked Systems Design and Implementation》]()|《第一届网络系统设计与实现研讨会论文集》|
-53|[《Protocol Independence Using the Sockets API》]()|《使用套接字API的协议独立性》|
-54|[《Reflections on Active Networking》]()|《关于主动网络的思考》|
-55|[《Reliable Blast UDP Predictable High Performance Bulk Data Transfer》]()|《可靠的爆炸UDP可预测高性能大容量数据传输》|
-56|[《Research on Computer Programming Optimization System Based on Big Data Technology》]()|《基于大数据技术的计算机编程优化系统研究》|
-57|[《Revisiting Coroutines》]()|《回顾协同程序》|
-58|[《Scalable Network IO in Linux》]()|《Linux中的可扩展网络IO》|
-59|[《Secure WWW Transactions Using Standard HTTP and Java Applets》]()|《使用标准HTTP和Java applet安全WWW事务》|
-60|[《Self-Stabilizing Structured Ring Topology P2P Systems》]()|《自稳定的结构化环拓扑P2P系统》|
-61|[《Slipstream Automatic Interprocess Communication Optimization》]()|《滑流自动进程间通信优化》|
-62|[《SNP An Interface for Secure Network Programming》]()|《SNP安全网络编程接口》|
-63|[《Socket Programming》]()|《套接字编程》|
-64|[《StackMap Low-Latency Networking with the OS Stack and Dedicated NICs》]()|《StackMap低时延组网，支持操作系统栈和专用网卡》|
-65|[《Taking a Long Look at QUIC》]()|《长时间看QUIC》|
-66|[《TCP/IP Overview》]()|《TCP / IP概述》|
-67|[《The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language》]()|《用高级语言编写POSIX内核的好处和代价》|
-68|[《The Networks of Reinvention》]()|《重塑的网络》|
-69|[《The QUIC Transport Protocol：Design and Internet-Scale Deployment》]()|《QUIC传输协议:设计和internet规模的部署》|
-70|[《The Secure Socket API TLS as an Operating System Service（USENIX）》]()|《安全套接字API TLS作为操作系统服务(USENIX)》|
-71|[《The Secure Socket API TLS as an Operating System Service》]()|《安全套接字API TLS作为操作系统服务》|
-72|[《Toward Efficient Querying of Compressed Network Payloads》]()|《高效查询压缩网络负载》|
-73|[《Towards Securing the Internet of Things with QUIC》]()|《通过QUIC确保物联网安全》|
-74|[《TRANSMISSION CONTROL PROTOCOL》]()|《传输控制协议》|
-75|[《TrapezeIP TCP/IP at Near-Gigabit Speeds》]()|《trapzeip TCP/IP在近千兆速度》|
-76|[《User Space Network Drivers》]()|《用户空间网络驱动程序》|
-77|[《Using TCP/IP traffic shaping to achieve iSCSI service predictability》]()|《使用TCP/IP流量整形来实现iSCSI服务可预测性》|
-78|[未完待续...]()|《》|
+1|[《A component-based approach to the design of networked control systems》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AA%20component-based%20approach%20to%20the%20design%20of%20networked%20control%20systems%E3%80%8B.pdf)|《一种基于组件的网络化控制系统设计方法》|
+2|[《A Decision-Analytic Approach for P2P Cooperation Policy Setting》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AA%20Decision-Analytic%20Approach%20for%20P2P%20Cooperation%20Policy%20Setting%E3%80%8B.pdf)|《一种P2P合作策略设置的决策分析方法》|
+3|[《A Design and Implementation of Active Network Socket Programming》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AA%20Design%20and%20Implementation%20of%20Active%20Network%20Socket%20Programming%20%E3%80%8B.pdf)|《一种主动网络套接字编程的设计与实现》|
+4|[《A Look Back at “Security Problems in the TCPIP Protocol Suite”》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AA%20Look%20Back%20at%20%E2%80%9CSecurity%20Problems%20in%20the%20TCPIP%20Protocol%20Suite%E2%80%9D%E3%80%8B.pdf)|《回顾“TCPIP协议套件中的安全问题”》|
+5|[《A P2P VIDEO DELIVERY NETWORK (P2P-VDN)》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AA%20P2P%20VIDEO%20DELIVERY%20NETWORK%20(P2P-VDN)%E3%80%8B.pdf)|《p2p视频分发网络(p2p - vdn)》|
+6|[《A proposal to add coroutines to the C++ standard library (Revision 1)》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AA%20proposal%20to%20add%20coroutines%20to%20the%20C%2B%2B%20standard%20library%20(Revision%201)%E3%80%8B.pdf)|《在c++标准库中添加协程的建议(修订版1)》|
+7|[《A Simple Model for Analyzing P2P Streaming Protocols》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AA%20Simple%20Model%20for%20Analyzing%20P2P%20Streaming%20Protocols%E3%80%8B.pdf)|《一个分析P2P流协议的简单模型》|
+8|[《A Survey of Asynchronous Programming Using Coroutines in the Internet of Things and Embedded Systems》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AA%20Survey%20of%20Asynchronous%20Programming%20Using%20Coroutines%20in%20the%20Internet%20of%20Things%20and%20Embedded%20Systems%E3%80%8B.pdf)|《物联网与嵌入式系统中协程异步编程研究综述》|
+9|[《A verified abstract machine for functional coroutines》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AA%20verified%20abstract%20machine%20for%20functional%20coroutines%E3%80%8B.pdf)|《功能性协程的验证抽象机器》|
+10|[《Adding async RAII support to coroutines》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AAdding%20async%20RAII%20support%20to%20coroutines%E3%80%8B.pdf)|《向协程添加异步RAII支持》|
+11|[《Attaining the Promise and Avoiding the Pitfalls of TCP in the Datacenter》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AAttaining%20the%20Promise%20and%20Avoiding%20the%20Pitfalls%20of%20TCP%20in%20the%20Datacenter%E3%80%8B.pdf)|《在数据中心中实现TCP的承诺和避免TCP的缺陷》|
+12|[《Base of the Networking Protocol – TCPIP Its Design and Security Aspects》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ABase%20of%20the%20Networking%20Protocol%20%E2%80%93%20TCPIP%20Its%20Design%20and%20Security%20Aspects%E3%80%8B.pdf)|《基于网络协议—TCPIP的设计和安全方面》|
+13|[《Beej’s Guide to Network Programming》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ABeej%E2%80%99s%20Guide%20to%20Network%20Programming%E3%80%8B.pdf)|《Beej的网络编程指南》|
+14|[《Bitcoin A Peer-to-Peer Electronic Cash System》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ABitcoin%20A%20Peer-to-Peer%20Electronic%20Cash%20System%E3%80%8B.pdf)|《比特币——点对点电子现金系统》|
+15|[《Combining TCP and UDP for Secure Data Transfer》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ACombining%20TCP%20and%20UDP%20for%20Secure%20Data%20Transfer%E3%80%8B.pdf)|《结合TCP和UDP的安全数据传输》|
+16|[《Comparative Evaluation of Kernel Bypass Mechanisms for High-performance Inter-container Communications》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AComparative%20Evaluation%20of%20Kernel%20Bypass%20Mechanisms%20for%20High-performance%20Inter-container%20Communications%E3%80%8B.pdf)|《用于高性能容器间通信的内核旁路机制的比较评估》|
+17|[《Configtron Tackling network diversity with heterogeneous configurations》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AConfigtron%20Tackling%20network%20diversity%20with%20heterogeneous%20configurations%E3%80%8B.pdf)|《Configtron通过异构配置解决网络多样性问题》|
+18|[《Coroutines TS for C++20》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ACoroutines%20TS%20for%20C%2B%2B2a%E3%80%8B.pdf)|《协程TS for C++20》|
+19|[《Designs and Evaluation of a Tracker in P2P Networks》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ADesigns%20and%20Evaluation%20of%20a%20Tracker%20in%20P2P%20Networks%E3%80%8B.pdf)|《P2P网络中跟踪器的设计与评估》|
+20|[《Dissecting Performance of Production QUIC》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ADissecting%20Performance%20of%20Production%20QUIC%E3%80%8B.pdf)|《生产QUIC性能剖析》|
+21|[《Embedding Covert Channels into TCP/IP》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AEmbedding%20Covert%20Channels%20into%20TCPIP%E3%80%8B.pdf)|《嵌入隐蔽通道到TCP/IP》|
+22|[《Evaluating Predictors of Congestion Collapse in Communication Networks》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AEvaluating%20Predictors%20of%20Congestion%20Collapse%20in%20Communication%20Networks%E3%80%8B.pdf)|《通信网络拥塞崩溃预测器的评估》|
+23|[《Full TCP/IP for 8-Bit Architectures》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AFull%20TCPIP%20for%208-Bit%20Architectures%E3%80%8B.pdf)|《8位架构的全TCP/IP》|
+24|[《High-speed Software Data Plane via Vectorized Packet Processing》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AHigh-speed%20Software%20Data%20Plane%20via%20Vectorized%20Packet%20Processing%E3%80%8B.pdf)|《基于矢量分组处理的高速软件数据平面》|
+25|[《Incremental Approach Coroutine TS + Core Coroutines》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AIncremental%20Approach%20Coroutine%20TS%20%2B%20Core%20Coroutines%E3%80%8B.pdf)|《增量方法协程TS +核心协程》|
+26|[《Innovating Transport with QUIC Design Approaches and Research Challenges》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AInnovating%20Transport%20with%20QUIC%20Design%20Approaches%20and%20Research%20Challenges%E3%80%8B.pdf)|《利用QUIC设计方法和研究挑战创新运输》|
+27|[《Interaction between TCP and UDP flows in Wireless Multi-hop Ad hoc Networks》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AInteraction%20between%20TCP%20and%20UDP%20flows%20in%20Wireless%20Multi-hop%20Ad%20hoc%20Networks%E3%80%8B.pdf)|《无线多跳Ad hoc网络中TCP和UDP流的交互》|
+28|[《Introduction to TCP/IP Network Attacks》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AIntroduction%20to%20TCPIP%20Network%20Attacks%E3%80%8B.pdf)|《TCP/IP网络攻击简介》|
+29|[《JAVA NETWORK PROGRAMMING USING SOCKET》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AJAVA%20NETWORK%20PROGRAMMING%20USING%20SOCKET%E3%80%8B.pdf)|《使用套接字进行Java网络编程》|
+30|[《Kademlia A Peer-to-peer Information System Based on the XOR Metric》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AKademlia%20A%20Peer-to-peer%20Information%20System%20Based%20on%20the%20XOR%20Metric%E3%80%8B.pdf)|《基于异或度量的点对点信息系统》|
+31|[《MIMIQ Masking IPs with Migration in QUIC》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AMIMIQ%20Masking%20IPs%20with%20Migration%20in%20QUIC%E3%80%8B.pdf)|《MIMIQ在QUIC中使用迁移屏蔽ip》|
+32|[《mTCP A Highly Scalable User-level TCP Stack for Multicore Systems》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AmTCP%20A%20Highly%20Scalable%20User-level%20TCP%20Stack%20for%20Multicore%20Systems%E3%80%8B.pdf)|《一个用于多核系统的高度可扩展的用户级TCP堆栈》|
+33|[《NetKAT Semantic Foundations for Networks》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ANetKAT%20Semantic%20Foundations%20for%20Networks%E3%80%8B.pdf)|《网络语义基础》|
+34|[《netmap a novel framework for fast packet IO》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8Anetmap%20a%20novel%20framework%20for%20fast%20packet%20IO%E3%80%8B.pdf)|《netmap是一种用于快速数据包IO的新框架》|
+35|[《netmap Memory Mapped Access To Network Devices》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8Anetmap%20Memory%20Mapped%20Access%20To%20Network%20Devices%E3%80%8B.pdf)|《netmap内存映射访问网络设备》|
+36|[《Network Application Frameworks》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ANetwork%20Application%20Frameworks%E3%80%8B.pdf)|《网络应用程序框架》|
+37|[《Network Programming in Age of Empires and Beyond》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ANetwork%20Programming%20in%20Age%20of%20Empires%20and%20Beyond%20%E3%80%8B.pdf)|《《帝国时代》中的网络编程》|
+38|[《Network Programming》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ANetwork%20Programming%E3%80%8B.pdf)|《网络程序设计》|
+39|[《Observations of UDP to TCP Ratio and Port Numbers》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AObservations%20of%20UDP%20to%20TCP%20Ratio%20and%20Port%20Numbers%E3%80%8B.pdf)|《UDP到TCP比率和端口号的观察》|
+40|[《Operational Semantics for Declarative Networking》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AOperational%20Semantics%20for%20Declarative%20Networking%E3%80%8B.pdf)|《声明式网络的操作语义》|
+41|[《OReilly - Java Network Programming 2ed》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AOReilly%20-%20Java%20Network%20Programming%202ed%E3%80%8B.pdf)|《orilly - Java网络编程2ed》|
+43|[《P2P File-Sharing in Hell Exploiting BitTorrent Vulnerabilities to Launch Distributed Reflective DoS Attacks》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AP2P%20File-Sharing%20in%20Hell%20Exploiting%20BitTorrent%20Vulnerabilities%20to%20Launch%20Distributed%20Reflective%20DoS%20Attacks%E3%80%8B.pdf)|《地狱中的P2P文件共享利用BitTorrent漏洞发起分布式反射DoS攻击》|
+44|[《packetdrill Scriptable Network Stack Testing, from Sockets to Packets》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8Apacketdrill%20Scriptable%20Network%20Stack%20Testing%2C%20from%20Sockets%20to%20Packets%E3%80%8B.pdf)|《脚本化的网络堆栈测试，从套接字到包》|
+45|[《Payload Caching High-Speed Data Forwarding for Network Intermediaries》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8APayload%20Caching%20High-Speed%20Data%20Forwarding%20for%20Network%20Intermediaries%E3%80%8B.pdf)|《有效载荷缓存用于网络中介的高速数据转发》|
+46|[《Peer-to-Peer (P2P) File Sharing Applications and their Threat to the Corporate Environment》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8APeer-to-Peer%20(P2P)%20File%20Sharing%20Applications%20and%20their%20Threat%20to%20the%20Corporate%20Environment%E3%80%8B.pdf)|《点对点(P2P)文件共享应用程序及其对企业环境的威胁》|
+47|[《Peer-to-Peer Architecture Case Study Gnutella Network》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8APeer-to-Peer%20Architecture%20Case%20Study%20Gnutella%20Network%E3%80%8B.pdf)|《点对点架构案例研究Gnutella网络》|
+48|[《Performance of TCP/IP Over Next Generation Broadband Wireless Access Networks》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8APerformance%20of%20TCPIP%20Over%20Next%20Generation%20Broadband%20Wireless%20Access%20Networks%E3%80%8B.pdf)|《下一代宽带无线接入网络的TCP/IP性能》|
+49|[《Performance of UDP and TCP Communication on Personal Computers》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8APerformance%20of%20UDP%20and%20TCP%20Communication%20on%20Personal%20Computers%E3%80%8B.pdf)|《UDP和TCP在个人电脑上的通信性能》|
+50|[《Performant TCP for Low-Power Wireless Networks》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8APerformant%20TCP%20for%20Low-Power%20Wireless%20Networks%E3%80%8B.pdf)|《用于低功耗无线网络的高性能TCP》|
+51|[《Portable Desktop Applications Based on P2P Transportation and Virtualization》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8APortable%20Desktop%20Applications%20Based%20on%20P2P%20Transportation%20and%20Virtualization%E3%80%8B.pdf)|《基于P2P传输和虚拟化的便携式桌面应用》|
+52|[《Proceedings of the First Symposium onNetworked Systems Design and Implementation》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AProceedings%20of%20the%20First%20Symposium%20onNetworked%20Systems%20Design%20and%20Implementation%E3%80%8B.pdf)|《第一届网络系统设计与实现研讨会论文集》|
+53|[《Protocol Independence Using the Sockets API》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AProtocol%20Independence%20Using%20the%20Sockets%20API%E3%80%8B.pdf)|《使用套接字API的协议独立性》|
+54|[《Reflections on Active Networking》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AReflections%20on%20Active%20Networking%E3%80%8B.pdf)|《关于主动网络的思考》|
+55|[《Reliable Blast UDP Predictable High Performance Bulk Data Transfer》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AReliable%20Blast%20UDP%20Predictable%20High%20Performance%20Bulk%20Data%20Transfer%E3%80%8B.pdf)|《可靠的爆炸UDP可预测高性能大容量数据传输》|
+56|[《Research on Computer Programming Optimization System Based on Big Data Technology》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AResearch%20on%20Computer%20Programming%20Optimization%20System%20Based%20on%20Big%20Data%20Technology%E3%80%8B.pdf)|《基于大数据技术的计算机编程优化系统研究》|
+57|[《Revisiting Coroutines》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ARevisiting%20Coroutines%E3%80%8B.pdf)|《回顾协同程序》|
+58|[《Scalable Network IO in Linux》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AScalable%20Network%20IO%20in%20Linux%E3%80%8B.pdf)|《Linux中的可扩展网络IO》|
+59|[《Secure WWW Transactions Using Standard HTTP and Java Applets》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ASecure%20WWW%20Transactions%20Using%20Standard%20HTTP%20and%20Java%20Applets%E3%80%8B.pdf)|《使用标准HTTP和Java applet安全WWW事务》|
+60|[《Self-Stabilizing Structured Ring Topology P2P Systems》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ASelf-Stabilizing%20Structured%20Ring%20Topology%20P2P%20Systems%E3%80%8B.pdf)|《自稳定的结构化环拓扑P2P系统》|
+61|[《Slipstream Automatic Interprocess Communication Optimization》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ASlipstream%20Automatic%20Interprocess%20Communication%20Optimization%E3%80%8B.pdf)|《滑流自动进程间通信优化》|
+62|[《SNP An Interface for Secure Network Programming》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ASNP%20An%20Interface%20for%20Secure%20Network%20Programming%E3%80%8B.pdf)|《SNP安全网络编程接口》|
+63|[《Socket Programming》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ASocket%20Programming%20%E3%80%8B.pdf)|《套接字编程》|
+64|[《StackMap Low-Latency Networking with the OS Stack and Dedicated NICs》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AStackMap%20Low-Latency%20Networking%20with%20the%20OS%20Stack%20and%20Dedicated%20NICs%E3%80%8B.pdf)|《StackMap低时延组网，支持操作系统栈和专用网卡》|
+65|[《Taking a Long Look at QUIC》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ATaking%20a%20Long%20Look%20at%20QUIC%E3%80%8B.pdf)|《长时间看QUIC》|
+66|[《TCP/IP Overview》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ATCPIP%20Overview%E3%80%8B.pdf)|《TCP / IP概述》|
+67|[《The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AThe%20Benefits%20and%20Costs%20of%20Writing%20a%20POSIX%20Kernel%20in%20a%20High-Level%20Language%E3%80%8B.pdf)|《用高级语言编写POSIX内核的好处和代价》|
+68|[《The Networks of Reinvention》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AThe%20Networks%20of%20Reinvention%E3%80%8B.pdf)|《重塑的网络》|
+69|[《The QUIC Transport Protocol：Design and Internet-Scale Deployment》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AThe%20QUIC%20Transport%20Protocol%EF%BC%9ADesign%20and%20Internet-Scale%20Deployment%E3%80%8B.pdf)|《QUIC传输协议:设计和internet规模的部署》|
+70|[《The Secure Socket API TLS as an Operating System Service（USENIX）》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AThe%20Secure%20Socket%20API%20TLS%20as%20an%20Operating%20System%20Service%EF%BC%88USENIX%EF%BC%89%E3%80%8B.pdf)|《安全套接字API TLS作为操作系统服务(USENIX)》|
+71|[《The Secure Socket API TLS as an Operating System Service》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AThe%20Secure%20Socket%20API%20TLS%20as%20an%20Operating%20System%20Service%E3%80%8B.pdf)|《安全套接字API TLS作为操作系统服务》|
+72|[《Toward Efficient Querying of Compressed Network Payloads》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AToward%20Efficient%20Querying%20of%20Compressed%20Network%20Payloads%E3%80%8B.pdf)|《高效查询压缩网络负载》|
+73|[《Towards Securing the Internet of Things with QUIC》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ATowards%20Securing%20the%20Internet%20of%20Things%20with%20QUIC%E3%80%8B.pdf)|《通过QUIC确保物联网安全》|
+74|[《TRANSMISSION CONTROL PROTOCOL》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ATRANSMISSION%20CONTROL%20PROTOCOL%E3%80%8B.pdf)|《传输控制协议》|
+75|[《TrapezeIP TCP/IP at Near-Gigabit Speeds》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ATrapezeIP%20TCPIP%20at%20Near-Gigabit%20Speeds%E3%80%8B.pdf)|《trapzeip TCP/IP在近千兆速度》|
+76|[《User Space Network Drivers》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AUser%20Space%20Network%20Drivers%E3%80%8B.pdf)|《用户空间网络驱动程序》|
+77|[《Using TCP/IP traffic shaping to achieve iSCSI service predictability》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AUsing%20TCPIP%20traffic%20shaping%20to%20achieve%20iSCSI%20service%20predictability%E3%80%8B.pdf)|《使用TCP/IP流量整形来实现iSCSI服务可预测性》|
+78|[未完待续...]()||
 
   
 </div>
