@@ -200,7 +200,38 @@ No.|Title|Translation（参考）|Company
   
 </div>
 
-<h3 id="3">🐮 牛B的基础组件</h3>
+---
+
+<h3 id="3">🐮 牛B的基础组件
+
+<div align=center>
+No.|Title|Translation（参考）|Company
+:-------: | :---------------: | :------------: | :-------:
+1|[《A Comparative Study of Database Connection Pooling Strategy》]()|《数据库连接池策略的比较研究》| 
+2|[《A Design Framework for Highly Concurrent Systems》]()|《高并发系统的设计框架》| 
+3|[《A Lock-Free, Cache-Efficient Multi-Core Synchronization Mechanism for Line-Rate Network Traffic Monitoring》]()|《一种用于线速率网络流量监控的无锁、高速缓存高效多核同步机制》| 
+4|[《A Lock-Free, Cache-Efficient Shared Ring Buffer for Multi-Core Architectures》]()|《面向多核架构的无锁、高效缓存的共享环形缓冲区》| 
+5|[《A New Method in Improving Database Connection Pool Model 》]()|《一种改进数据库连接池模型的新方法》| 
+6|[《A Programming Interface for Scalable Network Socket IO》]()|《可扩展网络套接字IO的编程接口》| 
+7|[《Analyzing Parallel Real-Time Tasks Implemented with Thread Pools》]()|《分析用线程池实现的并行实时任务》| 
+8|[《Auto-Tuned Threading for OLDI Microservices》]()|《OLDI微服务的自动调优线程》| 
+9|[《Datacenter Tax Cuts Improving WSC Efficiency》]()|《数据中心减税提高WSC效率》| 
+10|[《ECS with NGINX (OpenResty)》]()|《ECS与NGINX (OpenResty)》| 戴尔
+11|[《Evaluating and Optimizing Thread Pool Strategies for Real-Time CORBA》]()|《评估和优化实时CORBA的线程池策略》| 
+12|[《Evaluation of the Impact of Cache Coherence Protocol and Data Locality on the Efficiency of Atomic Operations on Multicore Processors》]()|《多核处理器上缓存一致性协议和数据局部性对原子操作效率影响的评估》| 
+13|[《HBase Connection Dynamic Keeping Method Based on Reactor Pattern》]()|《基于反应堆模式的HBase连接动态保持方法》| 
+14|[《Hybrid Synchronization Based Distributed Thread Pool》]()|《基于混合同步的分布式线程池》| 
+15|[《Implementation of multiple thread pools based on distribution of service times by Riaz Shah》]()|《Riaz Shah基于服务时间分布实现多个线程池》| 
+16|[《Improving WSC Efficiency Through Protocol Buffer》]()|《通过协议缓冲区提高WSC效率》| 
+17|[《Modeling and Analysis of Thread-Pools》]()|《线程池的建模与分析》| 
+18|[《Prediction and Frequency Based Dynamic Thread Pool System A Hybrid Model》]()|《基于预测和频率的动态线程池系统——一种混合模型》| 
+19|[《Programming with Threads》]()|《多线程程序设计》| 
+20|[《ProIO An Event-Based IO Stream Format for Protobuf Messages》]()|《ProIO一种用于Protobuf消息的基于事件的IO流格式》| 
+21|[未完待续...]()|| 
+
+</div>
+
+</h3>
   
   
 <h3 id="5">✈ 性能优化很重要</h3>
