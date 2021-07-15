@@ -255,46 +255,46 @@ No.|Title|Translation（参考）|Company
   
 No.|Title|Translation（参考）|Company
 :-------: | :---------------: | :------------: | :-------:
-1|[《Practical Perl Tools Redis Meet Perl》]()|《实用Perl工具Redis遇见Perl》| 
-2|[《MySQL based selection of appropriate indexing technique in hospital system using multiclass SVM》]()|《基于MySQL的多类支持向量机在医院系统中选择合适的索引技术》| 
-3|[《Doing database design with MySQL》]()|《使用MySQL进行数据库设计》| 
-4|[《Hyperbolic Caching: Flexible Caching for Web Applications》]()|《双曲线缓存:Web应用程序的灵活缓存》| 
-5|[《Reconstructing Software IO Path with Failure-Atomic Memory-Mapped Interface》]()|《使用故障原子内存映射接口重建软件IO路径| 
-6|[《Making Network Stack Part of the Virtualized Infrastructure》]()|《使网络堆栈成为虚拟化基础设施的一部分》| 
-7|[《Making Volatile Index Structures Persistent with DRAM-NVMM Tiering》]()|《使用ram - nvmm分级使易变索引结构持久》| 
-8|[《Logical Distributed Counting for Scalable File Access》]()|《可扩展文件访问的逻辑分布式计数》| 
-9|[《Towards Scalable and Reliable In-Memory Storage System: A Case Study with Redis》]()|《面向可扩展和可靠的内存存储系统:基于Redis的案例研究》| 
-10|[《Contrail Architecture》]()|《航迹云架构》| 
-11|[《Database Caching Strategies Using Redis AWS Whitepaper》]()|《使用Redis AWS白皮书的数据库缓存策略》| 
-12|[《Database technology for the 2020s》]()|《面向2020年代的数据库技术》| 
-13|[《The Evolution of an Extension Language A History of Lua》]()|《一种扩展语言的进化——Lua的历史》| 
-14|[《MONGODB VS MYSQL A Comparative Study of：MongoDB and MySQL Based on Their Performance》]()|《MONGODB和MYSQL的比较研究:基于它们的性能》| 
-15|[《Enlightening the IO Path：Enlightening the IO Path》]()|《启发IO Path》| 
-16|[《Enlightening the IO Path：Enlightening the IO Path Enlightening the IO Path：Enlightening the IO Path》]()|《启发IO路径》| 
-17|[《The Homeostasis Protocol: Avoiding Transaction Coordination Through Program Analysis》]()|《动态平衡协议:通过程序分析避免事务协调》| 
-18|[《Revisiting Concurrency in High-Performance NoSQL Databases》]()|《在高性能NoSQL数据库中重新访问并发性》| 
-19|[《A Distributed Redis Framework for Use in the UCWW》]()|《在UCWW中使用的分布式Redis框架》| 
-20|[《NVMOVE Helping Programmers Move to Byte-Based Persistence》]()|《NVMOVE帮助程序员转向基于字节的持久性》| 
-21|[《Selection and Use of MySQL in a Database Management Course》]()|《数据库管理课程中MySQL的选择与使用》| 
-22|[《Deploying a multi-region, highly available MySQL architecture》]()|《部署多区域、高可用的MySQL体系结构》| 
-23|[《MongoDB Database Administration》]()|《MongoDB数据库管理》| 
-24|[《MySQL Cluster Internal Architecture》]()|《MySQL集群内部架构》| 
-25|[《MySQL V5 – Ready for Prime Time Business Intelligence》]()|《MySQL V5 -准备为黄金时间的商业智能》| 
-26|[《Oracle MySQL Database Service with HeatWave Query Accelerator》]()|《Oracle MySQL数据库服务与热浪查询加速器》| 
-27|[《Scaling Memcache at Facebook》]()|《在Facebook上扩展Memcache》| 
-28|[《Unifying Timestamp with Transaction Ordering for MVCC with Decentralized Scalar Timestamp》]()|《使用分散标量时间戳的MVCC统一时间戳与事务排序》| 
-29|[《MegaPipe A New Programming Interface for Scalable Network IO》]()|《MegaPipe一种新的可扩展网络IO编程接口》| 
-30|[《Write Dependency Disentanglement with Horae》]()|《和Horae一起写《依赖解缠》》| 
-31|[《Testing Database Engines via Pivoted Query Synthesis》]()|《通过枢轴查询合成测试数据库引擎》| 
-32|[《Recovery Principles of MySQL Cluster 5.1》]()|《MySQL集群恢复原理》| 
-33|[《Persisting Objects in Redis Key-Value Database》]()|《在Redis键值数据库中持久化对象》| 
-34|[《Identifying Unexpected Internet Services》]()|《识别意外的互联网服务》| 
-35|[《Using Internal MySQLInnoDB B-Tree Index Navigation for Data Hiding Purposes》]()|《使用内部MySQLInnoDB B-Tree索引导航数据隐藏的目的》| 
-36|[《SQL Transactions》]()|《SQL事务》| 
-37|[《InnoDB to MyRocks migration in main MySQL database at Facebook》]()|《InnoDB到MyRocks迁移到Facebook的主MySQL数据库》| 
-38|[《Autopsy of a MySQL automation disaster》]()|《MySQL自动化灾难的剖析》| 
-39|[《Zero-Downtime Rebalancing and Data Migration of a Mature Multi-Shard Platform》]()|《成熟多分片平台的零停机再平衡和数据迁移》| 
-40|[《Study and Optimization Based on MySQL Storage Engine》]()|《基于MySQL存储引擎的研究与优化》| 
+1|[《Practical Perl Tools Redis Meet Perl》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8APractical%20Perl%20Tools%20Redis%20Meet%20Perl%E3%80%8B.pdf)|《实用Perl工具Redis遇见Perl》| 
+2|[《MySQL based selection of appropriate indexing technique in hospital system using multiclass SVM》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AMySQL%20based%20selection%20of%20appropriate%20indexing%20technique%20in%20hospital%20system%20using%20multiclass%20SVM%E3%80%8B.pdf)|《基于MySQL的多类支持向量机在医院系统中选择合适的索引技术》| 
+3|[《Doing database design with MySQL》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ADoing%20database%20design%20with%20MySQL%20%E3%80%8B.pdf)|《使用MySQL进行数据库设计》| 
+4|[《Hyperbolic Caching: Flexible Caching for Web Applications》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AHyperbolic%20Caching%20Flexible%20Caching%20for%20Web%20Applications%E3%80%8B.pdf)|《双曲线缓存:Web应用程序的灵活缓存》| 
+5|[《Reconstructing Software IO Path with Failure-Atomic Memory-Mapped Interface》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AReconstructing%20Software%20IO%20Path%20with%20Failure-Atomic%20Memory-Mapped%20Interface%E3%80%8B.pdf)|《使用故障原子内存映射接口重建软件IO路径| 
+6|[《Making Network Stack Part of the Virtualized Infrastructure》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AMaking%20Network%20Stack%20Part%20of%20the%20Virtualized%20Infrastructure%E3%80%8B.pdf)|《使网络堆栈成为虚拟化基础设施的一部分》| 
+7|[《Making Volatile Index Structures Persistent with DRAM-NVMM Tiering》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AMaking%20Volatile%20Index%20Structures%20Persistent%20with%20DRAM-NVMM%20Tiering%E3%80%8B.pdf)|《使用ram - nvmm分级使易变索引结构持久》| 
+8|[《Logical Distributed Counting for Scalable File Access》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ALogical%20Distributed%20Counting%20for%20Scalable%20File%20Access%E3%80%8B.pdf)|《可扩展文件访问的逻辑分布式计数》| 
+9|[《Towards Scalable and Reliable In-Memory Storage System: A Case Study with Redis》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ATowards%20Scalable%20and%20Reliable%20In-Memory%20Storage%20System%20A%20Case%20Study%20with%20Redis%E3%80%8B.pdf)|《面向可扩展和可靠的内存存储系统:基于Redis的案例研究》| 
+10|[《Contrail Architecture》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AContrail%20Architecture%E3%80%8B.pdf)|《航迹云架构》| 
+11|[《Database Caching Strategies Using Redis AWS Whitepaper》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ADatabase%20Caching%20Strategies%20Using%20Redis%20AWS%20Whitepaper%E3%80%8B.pdf)|《使用Redis AWS白皮书的数据库缓存策略》| 
+12|[《Database technology for the 2020s》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ADatabase%20technology%20for%20the%202020s%E3%80%8B.pdf)|《面向2020年代的数据库技术》| 
+13|[《The Evolution of an Extension Language A History of Lua》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AThe%20Evolution%20of%20an%20Extension%20Language%20A%20History%20of%20Lua%E3%80%8B.pdf)|《一种扩展语言的进化——Lua的历史》| 
+14|[《MONGODB VS MYSQL A Comparative Study of：MongoDB and MySQL Based on Their Performance》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AMONGODB%20VS%20MYSQL%20A%20Comparative%20Study%20of%EF%BC%9AMongoDB%20and%20MySQL%20Based%20on%20Their%20Performance%E3%80%8B.pdf)|《MONGODB和MYSQL的比较研究:基于它们的性能》| 
+15|[《Enlightening the IO Path：Enlightening the IO Path》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AEnlightening%20the%20IO%20Path%EF%BC%9AEnlightening%20the%20IO%20Path%E3%80%8B.pdf)|《启发IO Path》| 
+16|[《Enhancing m-learning using GridFS for storing and streaming digital content》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AEnhancing%20m-learning%20using%20GridFS%20for%20storing%20and%20streaming%20digital%20content%E3%80%8B.pdf)|《使用GridFS增强移动学习，以存储和流媒体数字内容》| 
+17|[《The Homeostasis Protocol: Avoiding Transaction Coordination Through Program Analysis》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AThe%20Homeostasis%20Protocol%20Avoiding%20Transaction%20Coordination%20Through%20Program%20Analysis%E3%80%8B.pdf)|《动态平衡协议:通过程序分析避免事务协调》| 
+18|[《Revisiting Concurrency in High-Performance NoSQL Databases》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ARevisiting%20Concurrency%20in%20High-Performance%20NoSQL%20Databases%E3%80%8B.pdf)|《在高性能NoSQL数据库中重新访问并发性》| 
+19|[《A Distributed Redis Framework for Use in the UCWW》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AA%20Distributed%20Redis%20Framework%20for%20Use%20in%20the%20UCWW%E3%80%8B.pdf)|《在UCWW中使用的分布式Redis框架》| 
+20|[《NVMOVE Helping Programmers Move to Byte-Based Persistence》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ANVMOVE%20Helping%20Programmers%20Move%20to%20Byte-Based%20Persistence%E3%80%8B.pdf)|《NVMOVE帮助程序员转向基于字节的持久性》| 
+21|[《Selection and Use of MySQL in a Database Management Course》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ASelection%20and%20Use%20of%20MySQL%20in%20a%20Database%20Management%20Course%E3%80%8B.pdf)|《数据库管理课程中MySQL的选择与使用》| 
+22|[《Deploying a multi-region, highly available MySQL architecture》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ADeploying%20a%20multi-region%2C%20highly%20available%20MySQL%20architecture%E3%80%8B.pdf)|《部署多区域、高可用的MySQL体系结构》| 
+23|[《MongoDB Database Administration》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AMongoDB%20Database%20Administration%E3%80%8B.pdf)|《MongoDB数据库管理》| 
+24|[《MySQL Cluster Internal Architecture》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AMySQL%20Cluster%20Internal%20Architecture%E3%80%8B.pdf)|《MySQL集群内部架构》| 
+25|[《MySQL V5 – Ready for Prime Time Business Intelligence》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AMySQL%20V5%20%E2%80%93%20Ready%20for%20Prime%20Time%20Business%20Intelligence%E3%80%8B.pdf)|《MySQL V5 -准备为黄金时间的商业智能》| 
+26|[《Oracle MySQL Database Service with HeatWave Query Accelerator》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AOracle%20MySQL%20Database%20Service%20with%20HeatWave%20Query%20Accelerator%E3%80%8B.pdf)|《Oracle MySQL数据库服务与热浪查询加速器》| 
+27|[《Scaling Memcache at Facebook》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AScaling%20Memcache%20at%20Facebook%E3%80%8B.pdf)|《在Facebook上扩展Memcache》| 
+28|[《Unifying Timestamp with Transaction Ordering for MVCC with Decentralized Scalar Timestamp》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AUnifying%20Timestamp%20with%20Transaction%20Ordering%20for%20MVCC%20with%20Decentralized%20Scalar%20Timestamp%E3%80%8B.pdf)|《使用分散标量时间戳的MVCC统一时间戳与事务排序》| 
+29|[《MegaPipe A New Programming Interface for Scalable Network IO》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AMegaPipe%20A%20New%20Programming%20Interface%20for%20Scalable%20Network%20IO%E3%80%8B.pdf)|《MegaPipe一种新的可扩展网络IO编程接口》| 
+30|[《Write Dependency Disentanglement with Horae》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AWrite%20Dependency%20Disentanglement%20with%20Horae%E3%80%8B.pdf)|《和Horae一起写《依赖解缠》》| 
+31|[《Testing Database Engines via Pivoted Query Synthesis》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ATesting%20Database%20Engines%20via%20Pivoted%20Query%20Synthesis%E3%80%8B.pdf)|《通过枢轴查询合成测试数据库引擎》| 
+32|[《Recovery Principles of MySQL Cluster 5.1》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ARecovery%20Principles%20of%20MySQL%20Cluster%205.1%E3%80%8B.pdf)|《MySQL集群恢复原理》| 
+33|[《Persisting Objects in Redis Key-Value Database》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8APersisting%20Objects%20in%20Redis%20Key-Value%20Database%E3%80%8B.pdf)|《在Redis键值数据库中持久化对象》| 
+34|[《Identifying Unexpected Internet Services》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AIdentifying%20Unexpected%20Internet%20Services%E3%80%8B.pdf)|《识别意外的互联网服务》| 
+35|[《Using Internal MySQLInnoDB B-Tree Index Navigation for Data Hiding Purposes》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AUsing%20Internal%20MySQLInnoDB%20B-Tree%20Index%20Navigation%20for%20Data%20Hiding%20Purposes%E3%80%8B.pdf)|《使用内部MySQLInnoDB B-Tree索引导航数据隐藏的目的》| 
+36|[《SQL Transactions》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ASQL%20Transactions%E3%80%8B.pdf)|《SQL事务》| 
+37|[《InnoDB to MyRocks migration in main MySQL database at Facebook》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AInnoDB%20to%20MyRocks%20migration%20in%20main%20MySQL%20database%20at%20Facebook%E3%80%8B.pdf)|《InnoDB到MyRocks迁移到Facebook的主MySQL数据库》| 
+38|[《Autopsy of a MySQL automation disaster》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AAutopsy%20of%20a%20MySQL%20automation%20disaster%E3%80%8B.pdf)|《MySQL自动化灾难的剖析》| 
+39|[《Zero-Downtime Rebalancing and Data Migration of a Mature Multi-Shard Platform》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AZero-Downtime%20Rebalancing%20and%20Data%20Migration%20of%20a%20Mature%20Multi-Shard%20Platform%E3%80%8B.pdf)|《成熟多分片平台的零停机再平衡和数据迁移》| 
+40|[《Study and Optimization Based on MySQL Storage Engine》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AStudy%20and%20Optimization%20Based%20on%20MySQL%20Storage%20Engine%E3%80%8B.pdf)|《基于MySQL存储引擎的研究与优化》| 
 41|[未完待续...]()|| 
 
 </div>
