@@ -231,6 +231,17 @@ No.|Title|Translation（参考）|Company
 18|[《Prediction and Frequency Based Dynamic Thread Pool System A Hybrid Model》]()|《基于预测和频率的动态线程池系统——一种混合模型》| 
 19|[《Programming with Threads》]()|《多线程程序设计》| 
 20|[《ProIO An Event-Based IO Stream Format for Protobuf Messages》]()|《ProIO一种用于Protobuf消息的基于事件的IO流格式》| 
+21|[《The java.util.concurrent synchronizer framework》]()|《concurrent同步器框架》|维吉尼亚州立大学 
+22|[《Multicore Locks: The Case Is Not Closed Yet》]()|《多核锁:情况还没有结束》| 格勒诺布尔大学
+23|[《The Mutual Exclusion Problem Part II Statement and Solutions》]()|《互斥问题第二部分陈述与解决方法》|数字设备公司
+24|[《Performance Comparison of Messaging Protocols and Serialization Formats for Digital Twins in IoV》]()|《IoV中数字双胞胎的消息传递协议和序列化格式的性能比较》| 林雪平大学
+25|[《Software debugging techniques》]()|《软件调试技术》| 伦敦大学
+26|[《Performance evaluation of using Protocol Buffers in the Internet of Things communication》]()|《物联网通信中使用协议缓冲区的性能评估》|诺维萨德大学
+27|[《A Verified Protocol Buffer Compiler》]()|《一个经过验证的协议缓冲编译器》| 普渡大学
+28|[《Scalable Queue-Based Spin Locks with Timeout》]()|《可扩展的基于队列的超时自旋锁》| 罗彻斯特大学
+29|[《The Problem of Mutual Exclusion A New Distributed Solution》]()|《互斥问题一种新的分布式解决方案》| 弗吉尼亚联邦大学
+30|[《Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility》]()|《哈希和分层计时轮:实现计时器设施的有效数据结构》| unknown
+31|[《Using Protocol Buffers for Resource-Constrained Distributed Embedded Systems》]()|《在资源受限的分布式嵌入式系统中使用协议缓冲区》| 德国慕尼黑工业大学
 21|[未完待续...]()|| 
 
 </div>
