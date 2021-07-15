@@ -308,9 +308,10 @@ No.|Title|Translation（参考）|Company
 #### [百度翻译PC桌面版](https://fanyi.baidu.com/appdownload/download.html?tab=desktop&fr=pcplugin)
 #### [有道词典PC桌面版](http://cidian.youdao.com/)
 
+---
+
 <h3 id="22">作者福利</h3> 
 
----
 #### 零声教育，专注于c/c++Linux后台服务器开发架构技术提升。<br>
 [分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1037711)
 
