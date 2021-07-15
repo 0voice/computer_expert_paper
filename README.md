@@ -116,8 +116,6 @@ No.|Title|Translation（参考）|Company
 <h3 id="2">🌐 网络编程那些事儿</h3>
 
 
-
-
 <div align=center>
 
 No.|Title|Translation（参考）|Company
@@ -211,37 +209,37 @@ No.|Title|Translation（参考）|Company
   
 No.|Title|Translation（参考）|Company
 :-------: | :---------------: | :------------: | :-------:
-1|[《A Comparative Study of Database Connection Pooling Strategy》]()|《数据库连接池策略的比较研究》| 
-2|[《A Design Framework for Highly Concurrent Systems》]()|《高并发系统的设计框架》| 
-3|[《A Lock-Free, Cache-Efficient Multi-Core Synchronization Mechanism for Line-Rate Network Traffic Monitoring》]()|《一种用于线速率网络流量监控的无锁、高速缓存高效多核同步机制》| 
-4|[《A Lock-Free, Cache-Efficient Shared Ring Buffer for Multi-Core Architectures》]()|《面向多核架构的无锁、高效缓存的共享环形缓冲区》| 
-5|[《A New Method in Improving Database Connection Pool Model 》]()|《一种改进数据库连接池模型的新方法》| 
-6|[《A Programming Interface for Scalable Network Socket IO》]()|《可扩展网络套接字IO的编程接口》| 
-7|[《Analyzing Parallel Real-Time Tasks Implemented with Thread Pools》]()|《分析用线程池实现的并行实时任务》| 
-8|[《Auto-Tuned Threading for OLDI Microservices》]()|《OLDI微服务的自动调优线程》| 
-9|[《Datacenter Tax Cuts Improving WSC Efficiency》]()|《数据中心减税提高WSC效率》| 
-10|[《ECS with NGINX (OpenResty)》]()|《ECS与NGINX (OpenResty)》| 戴尔
-11|[《Evaluating and Optimizing Thread Pool Strategies for Real-Time CORBA》]()|《评估和优化实时CORBA的线程池策略》| 
-12|[《Evaluation of the Impact of Cache Coherence Protocol and Data Locality on the Efficiency of Atomic Operations on Multicore Processors》]()|《多核处理器上缓存一致性协议和数据局部性对原子操作效率影响的评估》| 
-13|[《HBase Connection Dynamic Keeping Method Based on Reactor Pattern》]()|《基于反应堆模式的HBase连接动态保持方法》| 
-14|[《Hybrid Synchronization Based Distributed Thread Pool》]()|《基于混合同步的分布式线程池》| 
-15|[《Implementation of multiple thread pools based on distribution of service times by Riaz Shah》]()|《Riaz Shah基于服务时间分布实现多个线程池》| 
-16|[《Improving WSC Efficiency Through Protocol Buffer》]()|《通过协议缓冲区提高WSC效率》| 
-17|[《Modeling and Analysis of Thread-Pools》]()|《线程池的建模与分析》| 
-18|[《Prediction and Frequency Based Dynamic Thread Pool System A Hybrid Model》]()|《基于预测和频率的动态线程池系统——一种混合模型》| 
-19|[《Programming with Threads》]()|《多线程程序设计》| 
-20|[《ProIO An Event-Based IO Stream Format for Protobuf Messages》]()|《ProIO一种用于Protobuf消息的基于事件的IO流格式》| 
-21|[《The java.util.concurrent synchronizer framework》]()|《concurrent同步器框架》|维吉尼亚州立大学 
-22|[《Multicore Locks: The Case Is Not Closed Yet》]()|《多核锁:情况还没有结束》| 格勒诺布尔大学
-23|[《The Mutual Exclusion Problem Part II Statement and Solutions》]()|《互斥问题第二部分陈述与解决方法》|数字设备公司
-24|[《Performance Comparison of Messaging Protocols and Serialization Formats for Digital Twins in IoV》]()|《IoV中数字双胞胎的消息传递协议和序列化格式的性能比较》| 林雪平大学
-25|[《Software debugging techniques》]()|《软件调试技术》| 伦敦大学
-26|[《Performance evaluation of using Protocol Buffers in the Internet of Things communication》]()|《物联网通信中使用协议缓冲区的性能评估》|诺维萨德大学
-27|[《A Verified Protocol Buffer Compiler》]()|《一个经过验证的协议缓冲编译器》| 普渡大学
-28|[《Scalable Queue-Based Spin Locks with Timeout》]()|《可扩展的基于队列的超时自旋锁》| 罗彻斯特大学
-29|[《The Problem of Mutual Exclusion A New Distributed Solution》]()|《互斥问题一种新的分布式解决方案》| 弗吉尼亚联邦大学
-30|[《Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility》]()|《哈希和分层计时轮:实现计时器设施的有效数据结构》| unknown
-31|[《Using Protocol Buffers for Resource-Constrained Distributed Embedded Systems》]()|《在资源受限的分布式嵌入式系统中使用协议缓冲区》| 德国慕尼黑工业大学
+1|[《A Comparative Study of Database Connection Pooling Strategy》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AA%20Comparative%20Study%20of%20Database%20Connection%20Pooling%20Strategy%E3%80%8B.pdf)|《数据库连接池策略的比较研究》| 
+2|[《A Design Framework for Highly Concurrent Systems》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AA%20Design%20Framework%20for%20Highly%20Concurrent%20Systems%E3%80%8B.pdf)|《高并发系统的设计框架》| 
+3|[《A Lock-Free, Cache-Efficient Multi-Core Synchronization Mechanism for Line-Rate Network Traffic Monitoring》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AA%20Lock-Free%2C%20Cache-Efficient%20Multi-Core%20Synchronization%20Mechanism%20for%20Line-Rate%20Network%20Traffic%20Monitoring%E3%80%8B.pdf)|《一种用于线速率网络流量监控的无锁、高速缓存高效多核同步机制》| 
+4|[《A Lock-Free, Cache-Efficient Shared Ring Buffer for Multi-Core Architectures》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AA%20Lock-Free%2C%20Cache-Efficient%20Shared%20Ring%20Buffer%20for%20Multi-Core%20Architectures%E3%80%8B.pdf)|《面向多核架构的无锁、高效缓存的共享环形缓冲区》| 
+5|[《A New Method in Improving Database Connection Pool Model 》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AA%20New%20Method%20in%20Improving%20Database%20Connection%20Pool%20Model%20%E3%80%8B.pdf)|《一种改进数据库连接池模型的新方法》| 
+6|[《A Programming Interface for Scalable Network Socket IO》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AA%20Programming%20Interface%20for%20Scalable%20Network%20Socket%20IO%E3%80%8B.pdf)|《可扩展网络套接字IO的编程接口》| 
+7|[《Analyzing Parallel Real-Time Tasks Implemented with Thread Pools》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AAnalyzing%20Parallel%20Real-Time%20Tasks%20Implemented%20with%20Thread%20Pools%E3%80%8B.pdf)|《分析用线程池实现的并行实时任务》| 
+8|[《Auto-Tuned Threading for OLDI Microservices》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AAuto-Tuned%20Threading%20for%20OLDI%20Microservices%E3%80%8B.pdf)|《OLDI微服务的自动调优线程》| 
+9|[《Datacenter Tax Cuts Improving WSC Efficiency》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8ADatacenter%20Tax%20Cuts%20Improving%20WSC%20Efficiency%20%E3%80%8B.pdf)|《数据中心减税提高WSC效率》| 
+10|[《ECS with NGINX (OpenResty)》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AECS%20with%20NGINX%20(OpenResty)%E3%80%8B.pdf)|《ECS与NGINX (OpenResty)》| 戴尔
+11|[《Evaluating and Optimizing Thread Pool Strategies for Real-Time CORBA》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AEvaluating%20and%20Optimizing%20Thread%20Pool%20Strategies%20for%20Real-Time%20CORBA%E3%80%8B.pdf)|《评估和优化实时CORBA的线程池策略》| 
+12|[《Evaluation of the Impact of Cache Coherence Protocol and Data Locality on the Efficiency of Atomic Operations on Multicore Processors》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AEvaluation%20of%20the%20Impact%20of%20Cache%20Coherence%20Protocol%20and%20Data%20Locality%20on%20the%20Efficiency%20of%20Atomic%20Operations%20on%20Multicore%20Processors%E3%80%8B.pdf)|《多核处理器上缓存一致性协议和数据局部性对原子操作效率影响的评估》| 
+13|[《HBase Connection Dynamic Keeping Method Based on Reactor Pattern》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AHBase%20Connection%20Dynamic%20Keeping%20Method%20Based%20on%20Reactor%20Pattern%E3%80%8B.pdf)|《基于反应堆模式的HBase连接动态保持方法》| 
+14|[《Hybrid Synchronization Based Distributed Thread Pool》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AHybrid%20Synchronization%20Based%20Distributed%20Thread%20Pool%E3%80%8B.pdf)|《基于混合同步的分布式线程池》| 
+15|[《Implementation of multiple thread pools based on distribution of service times by Riaz Shah》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AImplementation%20of%20multiple%20thread%20pools%20based%20on%20distribution%20of%20service%20times%20by%20Riaz%20Shah%E3%80%8B.pdf)|《Riaz Shah基于服务时间分布实现多个线程池》| 
+16|[《Improving WSC Efficiency Through Protocol Buffer》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AImproving%20WSC%20Efficiency%20Through%20Protocol%20Buffer%20%E3%80%8B.pdf)|《通过协议缓冲区提高WSC效率》| 
+17|[《Modeling and Analysis of Thread-Pools》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AModeling%20and%20Analysis%20of%20Thread-Pools%E3%80%8B.pdf)|《线程池的建模与分析》| 
+18|[《Prediction and Frequency Based Dynamic Thread Pool System A Hybrid Model》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8APrediction%20and%20Frequency%20Based%20Dynamic%20Thread%20Pool%20System%20A%20Hybrid%20Model%E3%80%8B.pdf)|《基于预测和频率的动态线程池系统——一种混合模型》| 
+19|[《Programming with Threads》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AProgramming%20with%20Threads%E3%80%8B.pdf)|《多线程程序设计》| 
+20|[《ProIO An Event-Based IO Stream Format for Protobuf Messages》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AProIO%20An%20Event-Based%20IO%20Stream%20Format%20for%20Protobuf%20Messages%E3%80%8B.pdf)|《ProIO一种用于Protobuf消息的基于事件的IO流格式》| 
+21|[《The java.util.concurrent synchronizer framework》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AThe%20java.util.concurrent%20synchronizer%20framework%E3%80%8B.pdf)|《concurrent同步器框架》|维吉尼亚州立大学 
+22|[《Multicore Locks: The Case Is Not Closed Yet》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AMulticore%20Locks%20The%20Case%20Is%20Not%20Closed%20Yet%E3%80%8B.pdf)|《多核锁:情况还没有结束》| 格勒诺布尔大学
+23|[《The Mutual Exclusion Problem Part II Statement and Solutions》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AThe%20Mutual%20Exclusion%20Problem%20Part%20II%20Statement%20and%20Solutions%E3%80%8B.pdf)|《互斥问题第二部分陈述与解决方法》|数字设备公司
+24|[《Performance Comparison of Messaging Protocols and Serialization Formats for Digital Twins in IoV》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8APerformance%20Comparison%20of%20Messaging%20Protocols%20and%20Serialization%20Formats%20for%20Digital%20Twins%20in%20IoV%E3%80%8B.pdf)|《IoV中数字双胞胎的消息传递协议和序列化格式的性能比较》| 林雪平大学
+25|[《Software debugging techniques》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8ASoftware%20debugging%20techniques%E3%80%8B.pdf)|《软件调试技术》| 伦敦大学
+26|[《Performance evaluation of using Protocol Buffers in the Internet of Things communication》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8APerformance%20evaluation%20of%20using%20Protocol%20Buffers%20in%20the%20Internet%20of%20Things%20communication%E3%80%8B.pdf)|《物联网通信中使用协议缓冲区的性能评估》|诺维萨德大学
+27|[《A Verified Protocol Buffer Compiler》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AA%20Verified%20Protocol%20Buffer%20Compiler%E3%80%8B.pdf)|《一个经过验证的协议缓冲编译器》| 普渡大学
+28|[《Scalable Queue-Based Spin Locks with Timeout》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AA%20Verified%20Protocol%20Buffer%20Compiler%E3%80%8B.pdf)|《可扩展的基于队列的超时自旋锁》| 罗彻斯特大学
+29|[《The Problem of Mutual Exclusion A New Distributed Solution》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AThe%20Problem%20of%20Mutual%20Exclusion%20A%20New%20Distributed%20Solution%E3%80%8B.pdf)|《互斥问题一种新的分布式解决方案》| 弗吉尼亚联邦大学
+30|[《Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AHashed%20and%20Hierarchical%20Timing%20Wheels%20Efficient%20Data%20Structures%20for%20Implementing%20a%20Timer%20Facility%E3%80%8B.pdf)|《哈希和分层计时轮:实现计时器设施的有效数据结构》| unknown
+31|[《Using Protocol Buffers for Resource-Constrained Distributed Embedded Systems》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AUsing%20Protocol%20Buffers%20for%20Resource-Constrained%20Distributed%20Embedded%20Systems%E3%80%8B.pdf)|《在资源受限的分布式嵌入式系统中使用协议缓冲区》| 德国慕尼黑工业大学
 21|[未完待续...]()|| 
 
 </div>
