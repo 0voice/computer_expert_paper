@@ -240,6 +240,53 @@ No.|Title|Translation（参考）|Company
   
 <h3 id="5">✈ 中间件很重要</h3>
 
+<div align=center>
+  
+No.|Title|Translation（参考）|Company
+:-------: | :---------------: | :------------: | :-------:
+1|[《Practical Perl Tools Redis Meet Perl》]()|《实用Perl工具Redis遇见Perl》| 
+2|[《MySQL based selection of appropriate indexing technique in hospital system using multiclass SVM》]()|《基于MySQL的多类支持向量机在医院系统中选择合适的索引技术》| 
+3|[《Doing database design with MySQL》]()|《使用MySQL进行数据库设计》| 
+4|[《Hyperbolic Caching: Flexible Caching for Web Applications》]()|《双曲线缓存:Web应用程序的灵活缓存》| 
+5|[《Reconstructing Software IO Path with Failure-Atomic Memory-Mapped Interface》]()|《使用故障原子内存映射接口重建软件IO路径| 
+6|[《Making Network Stack Part of the Virtualized Infrastructure》]()|《使网络堆栈成为虚拟化基础设施的一部分》| 
+7|[《Making Volatile Index Structures Persistent with DRAM-NVMM Tiering》]()|《使用ram - nvmm分级使易变索引结构持久》| 
+8|[《Logical Distributed Counting for Scalable File Access》]()|《可扩展文件访问的逻辑分布式计数》| 
+9|[《Towards Scalable and Reliable In-Memory Storage System: A Case Study with Redis》]()|《面向可扩展和可靠的内存存储系统:基于Redis的案例研究》| 
+10|[《Contrail Architecture》]()|《航迹云架构》| 
+11|[《Database Caching Strategies Using Redis AWS Whitepaper》]()|《使用Redis AWS白皮书的数据库缓存策略》| 
+12|[《Database technology for the 2020s》]()|《面向2020年代的数据库技术》| 
+13|[《The Evolution of an Extension Language A History of Lua》]()|《一种扩展语言的进化——Lua的历史》| 
+14|[《MONGODB VS MYSQL A Comparative Study of：MongoDB and MySQL Based on Their Performance》]()|《MONGODB和MYSQL的比较研究:基于它们的性能》| 
+15|[《Enlightening the IO Path：Enlightening the IO Path》]()|《启发IO Path》| 
+16|[《Enlightening the IO Path：Enlightening the IO Path Enlightening the IO Path：Enlightening the IO Path》]()|《启发IO路径》| 
+17|[《The Homeostasis Protocol: Avoiding Transaction Coordination Through Program Analysis》]()|《动态平衡协议:通过程序分析避免事务协调》| 
+18|[《Revisiting Concurrency in High-Performance NoSQL Databases》]()|《在高性能NoSQL数据库中重新访问并发性》| 
+19|[《A Distributed Redis Framework for Use in the UCWW》]()|《在UCWW中使用的分布式Redis框架》| 
+20|[《NVMOVE Helping Programmers Move to Byte-Based Persistence》]()|《NVMOVE帮助程序员转向基于字节的持久性》| 
+21|[《Selection and Use of MySQL in a Database Management Course》]()|《数据库管理课程中MySQL的选择与使用》| 
+22|[《Deploying a multi-region, highly available MySQL architecture》]()|《部署多区域、高可用的MySQL体系结构》| 
+23|[《MongoDB Database Administration》]()|《MongoDB数据库管理》| 
+24|[《MySQL Cluster Internal Architecture》]()|《MySQL集群内部架构》| 
+25|[《MySQL V5 – Ready for Prime Time Business Intelligence》]()|《MySQL V5 -准备为黄金时间的商业智能》| 
+26|[《Oracle MySQL Database Service with HeatWave Query Accelerator》]()|《Oracle MySQL数据库服务与热浪查询加速器》| 
+27|[《Scaling Memcache at Facebook》]()|《在Facebook上扩展Memcache》| 
+28|[《Unifying Timestamp with Transaction Ordering for MVCC with Decentralized Scalar Timestamp》]()|《使用分散标量时间戳的MVCC统一时间戳与事务排序》| 
+29|[《MegaPipe A New Programming Interface for Scalable Network IO》]()|《MegaPipe一种新的可扩展网络IO编程接口》| 
+30|[《Write Dependency Disentanglement with Horae》]()|《和Horae一起写《依赖解缠》》| 
+31|[《Testing Database Engines via Pivoted Query Synthesis》]()|《通过枢轴查询合成测试数据库引擎》| 
+32|[《Recovery Principles of MySQL Cluster 5.1》]()|《MySQL集群恢复原理》| 
+33|[《Persisting Objects in Redis Key-Value Database》]()|《在Redis键值数据库中持久化对象》| 
+34|[《Identifying Unexpected Internet Services》]()|《识别意外的互联网服务》| 
+35|[《Using Internal MySQLInnoDB B-Tree Index Navigation for Data Hiding Purposes》]()|《使用内部MySQLInnoDB B-Tree索引导航数据隐藏的目的》| 
+36|[《SQL Transactions》]()|《SQL事务》| 
+37|[《InnoDB to MyRocks migration in main MySQL database at Facebook》]()|《InnoDB到MyRocks迁移到Facebook的主MySQL数据库》| 
+38|[《Autopsy of a MySQL automation disaster》]()|《MySQL自动化灾难的剖析》| 
+39|[《Zero-Downtime Rebalancing and Data Migration of a Mature Multi-Shard Platform》]()|《成熟多分片平台的零停机再平衡和数据迁移》| 
+40|[《Study and Optimization Based on MySQL Storage Engine》]()|《基于MySQL存储引擎的研究与优化》| 
+41|[未完待续...]()|| 
+
+</div>
   
 <h3 id="6">🖧 高大上的分布式</h3>
   
