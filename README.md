@@ -388,8 +388,52 @@ No.|Title|Translation（参考）|Company
 </div>
   
 <h3 id="4">🖥 接近原始的LinuxOS</h3>
+
+<div align=center>
+  
+No.|Title|Translation（参考）|Company
+:-------: | :---------------: | :------------: | :-------:
+1|[《Cache Coherence Protocols in NUMA Multipro-cessors》]()|《NUMA多处理器中的缓存一致性协议》| unknown
+2|[《An Evaluation of Coarse-Grained Locking for Multicore Microkernels》]()|《一种用于多核微核的粗粒度锁定方法》| 澳大利亚联邦科学与工业研究组织
+3|[《VMPmonitor：An Efficient Modularity Approach for Hidden Process Detection》]()|《VMPmonitor:一种高效的模块化隐藏进程检测方法》|中国科学院
+4|[《SLAKE: Facilitating Slab Manipulation for Exploiting Vulnerabilities in the Linux Kernel》]()|《帮助Slab操作利用Linux内核中的漏洞》| 宾夕法尼亚州立大学
+5|[《RedHat Enterprise Linux NUMA support for HPEProLiant servers》]()|《RedHat Enterprise Linux NUMA支持HPEProLiant服务器》| RedHat
+6|[《The locking infrastructure in the FreeBSD kernel》]()|《FreeBSD内核中的锁定基础设施》| FreeBSD项目
+7|[《An Experimental Comparison Analysis of Kernel-level Memory Allocators》]()|《内核级内存分配器的实验比较分析》| 乌伯兰迪亚联邦大学
+8|[《Black-box Concurrent Data Structures for NUMA Architectures》]()|《用于NUMA架构的黑盒并发数据结构》| Microsoft,VMware
+9|[《An Evolutionary Study of Linux Memory Management for Fun and Profit》]()|《为了乐趣和利润的Linux内存管理的进化研究》| 佐治亚理工学院
+10|[《OpenPiton+Ariane: The First Open-Source, SMP Linux-booting RISC-V System Scaling From One to Many Cores》]()|《OpenPiton+Ariane:第一个开源，SMP linux引导的RISC-V系统从一个核扩展到多核》| 普林斯顿大学
+11|[《A Case for NUMA-aware Contention Management on Multicore Systems》]()|《多核系统中numa感知竞争管理的一个案例》| 西蒙弗雷泽大学
+12|[《The Slab Allocator:An Object-Caching Kernel Memory Allocator》]()|《Slab分配器:一个对象缓存内核内存分配器》| 太阳微系统公司
+13|[《Breaking the Big Lock:A Look at Symmetric Multiprocessing in UNIX》]()|《打破大锁:UNIX中的对称多处理》| unknown
+14|[《SMP Scalability Comparisons of Linux® Kernels 2.2.14 and 2.3.99》]()|《Linux®内核2.2.14和2.3.99的SMP可伸缩性比较》| IBM
+15|[《Linux kernel vulnerabilities:State-of-the-art defenses and open problems》]()|《Linux内核漏洞:最先进的防御和开放问题》| 清华大学
+16|[《Small Kernels Like Big Locks》]()|《小核如大锁》| unknown
+17|[《vScale: Automatic and Efficient Processor Scaling for SMP Virtual Machines》]()|《vScale: SMP虚拟机的自动高效处理器扩展》| Facebook
+18|[《The Linux Scheduler: a Decade of Wasted Cores》]()|《Linux调度器:浪费内核的十年》| 哥伦比亚大学
+19|[《Practical Safe Linux Kernel Extensibility》]()|《实用安全的Linux内核可扩展性》| 华盛顿大学
+20|[《High Performance Computing for Science and Engineering》]()|《面向科学与工程的高性能计算》| 费边Wermelinger计算科学与工程实验室
+21|[《Performance Analysis of UMA and NUMA Models》]()|《UMA和NUMA模型的性能分析》| 舒克拉大学
+22|[《KTLS: Linux Kernel Transport Layer Security》]()|《KTLS: Linux内核传输层安全》| Facebook
+23|[《Demystifying the Real-Time Linux Scheduling Latency》]()|《揭示实时Linux调度延迟》| 巴西圣卡塔琳娜联邦大学
+24|[《Linux multi-core scalability》]()|《Linux多核的可伸缩性》| Intel
+25|[《K-Miner: Uncovering Memory Corruption in Linux》]()|《K-Miner:揭示Linux中的内存崩溃》| CYSEC/达姆施塔特科技大学
+26|[《BKL: One Lock to Bind Them All》]()|《用一个锁把他们全部捆绑起来》| IBM
+27|[《NUMA aware heap memory manager》]()|《NUMA感知堆内存管理器》| unknown
+28|[《The real-time Linux kernel: a Survey on PREEMPT_RT》]()|《实时Linux内核:PREEMPT_RT综述》| 米兰理工大学
+29|[《Applications of RCU》]()|《应用RCU》| unknown
+30|[《Improving performance on NUMA systems》]()|《提高NUMA系统的性能》| HAL
+31|[《Linux Kernel Support for IEEE 1588 Hardware Timestamping》]()|《Linux内核支持IEEE 1588硬件时间戳》| unknown
+32|[《Research of Performance Linux Kernel File Systems》]()|《Linux内核文件系统性能研究》| 
+33|[《Slab allocators in the Linux Kernel:SLAB, SLOB, SLUB》]()|《Linux内核中的Slab分配器:Slab、SLOB、SLUB》| unknown
+34|[《Magazines and Vmem:Extending the Slab Allocator to Many CPUs and Arbitrary Resources》]()|《将Slab分配器扩展到多个cpu和任意资源》| 加州理工学院
+35|[《Understanding TheLinux Virtual Memory Manager》]()|《理解linux虚拟内存管理器》| unknown
+36|[未完待续...]()|| 
+  
+</div>
   
 <h3 id="7">🧰 好的磨刀石阅读工具</h3>
+
 
 #### [百度翻译PC桌面版](https://fanyi.baidu.com/appdownload/download.html?tab=desktop&fr=pcplugin)
 #### [有道词典PC桌面版](http://cidian.youdao.com/)
