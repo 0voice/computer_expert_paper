@@ -386,6 +386,8 @@ No.|Title|Translation（参考）|Company
 78|[未完待续...]()|| 
 
 </div>
+
+---
   
 <h3 id="4">🖥 接近原始的LinuxOS</h3>
 
@@ -434,9 +436,12 @@ No.|Title|Translation（参考）|Company
   
 <h3 id="7">🧰 好的磨刀石阅读工具</h3>
 
+<div align=center>
+  
+[百度翻译PC桌面版](https://fanyi.baidu.com/appdownload/download.html?tab=desktop&fr=pcplugin)|[有道词典PC桌面版](http://cidian.youdao.com/)
+:-------: | :------: 
 
-#### [百度翻译PC桌面版](https://fanyi.baidu.com/appdownload/download.html?tab=desktop&fr=pcplugin)
-#### [有道词典PC桌面版](http://cidian.youdao.com/)
+</div>
 
 ---
 
