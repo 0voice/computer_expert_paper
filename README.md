@@ -299,7 +299,93 @@ No.|Title|Translation（参考）|Company
 
 </div>
   
+---  
+  
 <h3 id="6">🖧 高大上的分布式</h3>
+
+<div align=center>
+  
+No.|Title|Translation（参考）|Company
+:-------: | :---------------: | :------------: | :-------:
+1|[《A Lightweight and High Performance Remote Procedure Call Framework for Cross Platform Communication》]()|《面向跨平台通信的轻量级高性能远程过程调用框架》| 第一届软件工程与应用国际会议
+2|[《Large-Scale Cloud Service Using Ceph》]()|《使用Ceph的大规模云服务》| Giannakos
+3|[《An introduction to Docker for reproducible research, with examples from the R environment》]()|《对Docker进行可重复研究的介绍，并以R环境为例》| 库存评估研究中心
+4|[《Architectural Patterns for Microservices: A Systematic Mapping Study》]()|《微服务的体系结构模式:系统映射研究》| 坦佩雷理工大学
+5|[《Accelerating TensorFlow with Adaptive RDMA-based gRPC》]()|《基于自适应rdma的gRPC加速TensorFlow》| 俄亥俄州立大学
+6|[《An Introduction to Docker and Analysis of its Performance》]()|《Docker的介绍及性能分析》| 亚太科技创新大学
+7|[《A Comparative Study of Microservices-based IoT Platforms》]()|《基于微服务的物联网平台比较研究》| 哈桑二世大学
+8|[An Architect s guide to APIs SOAP REST GraphQL and gRPC Enable Architect]()|《api SOAP REST GraphQL和gRPC Enable Architect的架构师指南》| unknown
+9|[《AN APPROACH OF EXPLOITING DOCKER AN APPROACH OF EXPLOITING DOCKER》]()|《一种docker的开发方法一种docker的开发方法》| JSS科技大学
+10|[《An Introduction to Docker and Analysis of its Performance》]()|《》| 
+11|[《Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code》]()|《具有分布式、并发、容错代码的基于规则的编程经验》| 犹他大学，斯坦福大学
+12|[《Modular Composition of Coordination Services》]()|《协调事务模块组成》| google
+13|[《DupHunter Flexible High-Performance Deduplication for Docker Registries》]()|《DupHunter用于Docker注册表的灵活高性能重复数据删除》| IBM
+14|[《Availability and Scalability Optimized Microservice Discovery from Enterprise Systems》]()|《从企业系统优化的微服务发现的可用性和可伸缩性》| 昆士兰大学
+15|[《Load Balancing using Docker and Kubernetes A Comparative Study》]()|《Docker和Kubernetes负载均衡的比较研究》| unknown
+16|[《Beats-Per-Minute (BPM) A Microservice-based Platform for the Monitoring of Health Related Data via Activity Trackers》]()|《BPM (BPM):一个基于微服务的平台，通过活动跟踪器监测健康相关数据》| Dell
+17|[《Business Object Centric Microservices Patterns》]()|《以业务对象为中心的微服务模式》| 昆士兰大学
+18|[《Using Docker Containers to Improve Reproducibility in Software and Web Engineering Research》]()|《使用Docker容器提高软件和Web工程研究中的再现性》| 苏黎世大学
+19|[《Continuous Software Engineering – A Microservices Architecture Perspective》]()|《持续软件工程——微服务体系结构视角》| 都柏林城市大学
+20|[《Taking the Cloud-Native Approach with Microservices》]()|《微服务采用原生云方法》| google
+21|[《Containerized Microservices architecture》]()|《容器化Microservices架构》| 帕特卡尔科学学院
+22|[《An Updated Performance Comparison of Virtual Machines and Linux Containers》]()|《虚拟机和Linux容器的性能比较》| IBM
+23|[《Supporting Docker in Emulab-Based Network Testbeds》]()|《在基于仿真的网络测试平台中支持Docker》| 犹他大学
+24|[《Development of deployment management system to solve microservices deployment complexity and runtime scalability challenges》]()|《开发部署管理系统，以解决微服务部署复杂性和运行时可伸缩性的挑战》| 计算机科学硕士项目
+25|[《Devops and Microservices Based Internet of Things Meta-Model》]()|《基于Devops和微服务的物联网元模型》| 哈山二大学信息技术与建模实验室
+26|[《Distributed Network computing over local ATM Networks》]()|《在本地ATM网络上的分布式网络计算》| 明尼苏达大学
+27|[《Distributed systems support for adaptive mobile applications》]()|《分布式系统支持自适应移动应用程序》| 兰卡斯特大学
+28|[《Understanding the Security Risks of Docker Hub》]()|《了解Docker Hub的安全风险》| 浙江大学、IBM等
+29|[《Docker Container》]()|《容器化》| unknown
+30|[《Docker Super Cluster V20》]()|《Docker超级集群V20》| unknown
+31|[《Value-Based Allocation of Docker Containers》]()|《基于值的Docker容器分配》| 约克大学计算机科学系
+32|[PERFORMANCE OF ENTERPRISE WEB APPLICATIONS IN DOCKER CONTAINERS ON VMWARE VSPHERE 6.5]()|《vmware vsphere 6.5上docker容器中企业web应用的性能》| VMWare
+33|[《Enabling Serverless Deployment of Large-Scale AI Workloads》]()|《实现大规模AI工作负载的无服务器部署》| 英国萨里大学计算机科学系
+34|[《Slacker Fast Distribution with Lazy Docker Containers》]()|《使用Lazy Docker容器的Slacker快速分发》| 威斯康星大学
+35|[《vNFS Maximizing NFS Performance with Compounds and Vectorized IO》]()|《vNFS通过复合和向量化IO最大化NFS性能》| IBM
+36|[《Improving Docker Registry Design based on Production Workload Analysis》]()|《基于生产工作负载分析改进Docker注册表设计》| IBM
+37|[《Research on Interprocess Communication in Microservices Architecture》]()|《微服务体系结构中的进程间通信研究》| IBM
+38|[《In Reference to RPC：It’s Time to Add Distributed Memory》]()|《参考RPC:是时候添加分布式内存了》| 加州大学伯克利分校
+39|[《Interactive RPC Binding Model》]()|《交互式RPC绑定模型》| 约旦大学
+40|[《Interchangeable Scheduling Policies in Real-Time Middleware for Distribution》]()|《分发实时中间件中的可互换调度策略》| 坎塔布里亚大学
+41|[《A Survey on Docker Container and its Use Cases》]()|《Docker容器及其用例综述》| unknown
+42|[《Kubernetes: Towards Deployment of Distributed IoT Applications in Fog Computing》]()|《Kubernetes:面向雾计算中分布式物联网应用的部署》| 多伦多大学
+43|[《A distributed systems platform for mobile computing》]()|《一个用于移动计算的分布式系统平台》| 兰卡斯特大学
+44|[《Creating A Distributed Round Robin Scheduler with Etcd》]()|《使用Etcd创建分布式轮询调度程序》| unknown
+45|[《Challenges in Storing Docker Images》]()|《存储Docker镜像的挑战》| IBM
+46|[《Modern System Administration with Go and Remote Procedure Calls (RPC)》]()|《使用Go和远程过程调用(RPC)的现代系统管理》| unknown
+47|[《Using gRPC with Go》]()|《使用gRPC与Go》| unknown
+48|[《Datacenter RPCs Can Be General and Fast》]()|《数据中心的rpc可以是通用和快速的》| 卡内基梅隆大学
+49|[《SkyhookDM: Data Processing in Ceph with Programmable Storage》]()|《基于可编程存储的Ceph SkyhookDM数据处理》| 加州大学
+50|[《Understanding Docker》]()|《了解容器化》| Oracle
+51|[《Docker ecosystem – Vulnerability Analysis》]()|《Docker生态系统-脆弱性分析》|诺基亚贝尔实验室
+52|[《Microservices Architecture for Modern Digital Platforms》]()|《面向现代数字平台的微服务架构》| Mindtree Ltd
+54|[《Microservices in Practice A Survey Study》]()|《实践中的微服务——调查研究》| 米纳斯吉拉斯州联邦大学
+55|[《Dynamic Load Balancing in Ceph》]()|《Ceph中的动态负载均衡》| 加利福尼亚大学
+56|[《Docker and Kubernetes:Changing the OpenText Documentum deployment model》]()|《：Docker和Kubernetes:改变OpenText Documentum的部署模式》| OpenText
+57|[《Assise Performance and Availability via Client-local NVM in a Distributed File System》]()|《在分布式文件系统中通过客户端本地NVM评估性能和可用性》| 德克萨斯大学奥斯汀分校
+58|[《Panduan Mudah OKD - OpenShift》]()|《Panduan Mudah OKD - OpenShift》| unknown
+59|[《Virtualization of Radio Access Network by Virtual Machine and Docker: Practice and Performance Analysis》]()|《基于虚拟机和Docker的无线接入网虚拟化:实践与性能分析》| Nokia
+60|[《Making containers lazy with Docker and CernVM-FS》]()|《使用Docker和CernVM-FS实现惰性容器》|  欧洲核子研究委员会
+61|[《Challenges of Microservices Architecture: A Survey on the State of the Practice》]()|《微服务体系结构的挑战:实践状态的调查》| unknown
+62|[《Docker Container based PaaS Cloud Computing Comprehensive Benchmarks using LAPACK》]()|《基于Docker容器的PaaS云计算综合基准使用LAPACK》|敖德萨州立环境大学 
+63|[《A Systematic Literature Review on Microservices》]()|《微服务系统文献综述》| 阿提姆大学
+64|[《Confine: Automated System Call Policy Generation for Container Attack Surface Reduction》]()|《减少容器攻击面的自动系统调用策略生成》| 斯托尼布鲁克大学
+65|[《Reducing the IoT security breach witha microservice architecture based on TLS and OAuth2》]()|《通过基于TLS和OAuth2的微服务架构减少物联网安全漏洞》| unknown
+66|[《Replicating data objects in large distributed database systems: an axiomatic game theoretic mechanismdesign approach》]()|《在大型分布式数据库系统中复制数据对象:一种公理化博弈机制设计方法》| unknown
+67|[《Implementing Remote Procedure Calls》]()|《实现远程过程调用》| 全录帕罗奥多研究中心
+68|[《Impact of etcd deployment on Kubernetes, Istio, and application performance》]()|《etcd部署对Kubernetes、Istio和应用程序性能的影响》| 瑞典隆德大学
+69|[《File Systems Unfit as Distributed Storage Back Ends》]()|《文件系统不适合作为分布式存储后端》| 卡内基梅隆大学
+70|[《Building Reliable Distributed Systems》]()|《建立可靠的分布式系统》| unknown
+71|[《Study of Container-Based Virtualisation and Threats in Fog Computing》]()|《雾计算中基于容器的虚拟化与威胁研究》| 马来西亚苏邦查亚泰勒大学
+72|[《Test automation in microservice architecture》]()|《微服务体系结构中的测试自动化》| 瓦尔纳管理大学
+73|[《Virtualization Using Docker Containers: For Reproducible Environments and Containerized Applications》]()|《使用Docker容器的虚拟化:用于可重复环境和容器化应用程序》| 圣克劳德州立大学
+74|[《Oracle WebLogic Server on Docker Containers》]()|《Docker容器上的Oracle WebLogic服务器》| Oracle
+75|[《Ceph: A Scalable, High-Performance Distributed File System》]()|《一个可扩展的，高性能的分布式文件系统》| 加州大学圣克鲁兹分校
+76|[《Managing Applications in Docker Containers》]()|《管理Docker容器中的应用程序》| unknown
+77|[《RATATOSKR: WIDE-AREA ACTUATOR RPC OVER GRIDSTAT WITH TIMELINESS,REDUNDANCY, AND SAFETY》]()|《Ratatoskr:广域执行器RPC over gridstat，具有及时性、冗余性和安全性》| 华盛顿州立大学
+78|[未完待续...]()|| 
+
+</div>
   
 <h3 id="4">🖥 接近原始的LinuxOS</h3>
   
