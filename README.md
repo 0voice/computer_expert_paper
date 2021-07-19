@@ -369,20 +369,20 @@ No.|Title|Translation（参考）|Company
 61|[《Challenges of Microservices Architecture: A Survey on the State of the Practice》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AChallenges%20of%20Microservices%20Architecture%20A%20Survey%20on%20the%20State%20of%20the%20Practice%E3%80%8B.pdf)|《微服务体系结构的挑战:实践状态的调查》| unknown
 62|[《Docker Container based PaaS Cloud Computing Comprehensive Benchmarks using LAPACK》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8ADocker%20Container%20based%20PaaS%20Cloud%20Computing%20Comprehensive%20Benchmarks%20using%20LAPACK%E3%80%8B.pdf)|《基于Docker容器的PaaS云计算综合基准使用LAPACK》|敖德萨州立环境大学 
 63|[《A Systematic Literature Review on Microservices》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AA%20Systematic%20Literature%20Review%20on%20Microservices%E3%80%8B.pdf)|《微服务系统文献综述》| 阿提姆大学
-64|[《Confine: Automated System Call Policy Generation for Container Attack Surface Reduction》]()|《减少容器攻击面的自动系统调用策略生成》| 斯托尼布鲁克大学
-65|[《Reducing the IoT security breach witha microservice architecture based on TLS and OAuth2》]()|《通过基于TLS和OAuth2的微服务架构减少物联网安全漏洞》| unknown
-66|[《Replicating data objects in large distributed database systems: an axiomatic game theoretic mechanismdesign approach》]()|《在大型分布式数据库系统中复制数据对象:一种公理化博弈机制设计方法》| unknown
-67|[《Implementing Remote Procedure Calls》]()|《实现远程过程调用》| 全录帕罗奥多研究中心
-68|[《Impact of etcd deployment on Kubernetes, Istio, and application performance》]()|《etcd部署对Kubernetes、Istio和应用程序性能的影响》| 瑞典隆德大学
-69|[《File Systems Unfit as Distributed Storage Back Ends》]()|《文件系统不适合作为分布式存储后端》| 卡内基梅隆大学
-70|[《Building Reliable Distributed Systems》]()|《建立可靠的分布式系统》| unknown
-71|[《Study of Container-Based Virtualisation and Threats in Fog Computing》]()|《雾计算中基于容器的虚拟化与威胁研究》| 马来西亚苏邦查亚泰勒大学
-72|[《Test automation in microservice architecture》]()|《微服务体系结构中的测试自动化》| 瓦尔纳管理大学
-73|[《Virtualization Using Docker Containers: For Reproducible Environments and Containerized Applications》]()|《使用Docker容器的虚拟化:用于可重复环境和容器化应用程序》| 圣克劳德州立大学
-74|[《Oracle WebLogic Server on Docker Containers》]()|《Docker容器上的Oracle WebLogic服务器》| Oracle
-75|[《Ceph: A Scalable, High-Performance Distributed File System》]()|《一个可扩展的，高性能的分布式文件系统》| 加州大学圣克鲁兹分校
-76|[《Managing Applications in Docker Containers》]()|《管理Docker容器中的应用程序》| unknown
-77|[《RATATOSKR: WIDE-AREA ACTUATOR RPC OVER GRIDSTAT WITH TIMELINESS,REDUNDANCY, AND SAFETY》]()|《Ratatoskr:广域执行器RPC over gridstat，具有及时性、冗余性和安全性》| 华盛顿州立大学
+64|[《Confine: Automated System Call Policy Generation for Container Attack Surface Reduction》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AConfine%20Automated%20System%20Call%20Policy%20Generation%20for%20Container%20Attack%20Surface%20Reduction%E3%80%8B.pdf)|《减少容器攻击面的自动系统调用策略生成》| 斯托尼布鲁克大学
+65|[《Reducing the IoT security breach witha microservice architecture based on TLS and OAuth2》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AReducing%20the%20IoT%20security%20breach%20witha%20microservice%20architecture%20based%20on%20TLS%20and%20OAuth2%E3%80%8B.pdf)|《通过基于TLS和OAuth2的微服务架构减少物联网安全漏洞》| unknown
+66|[《Replicating data objects in large distributed database systems: an axiomatic game theoretic mechanismdesign approach》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AReplicating%20data%20objects%20in%20large%20distributed%20database%20systems%20an%20axiomatic%20game%20theoretic%20mechanismdesign%20approach%E3%80%8B.pdf)|《在大型分布式数据库系统中复制数据对象:一种公理化博弈机制设计方法》| unknown
+67|[《Implementing Remote Procedure Calls》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AImplementing%20Remote%20Procedure%20Calls%E3%80%8B.pdf)|《实现远程过程调用》| 全录帕罗奥多研究中心
+68|[《Impact of etcd deployment on Kubernetes, Istio, and application performance》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AImpact%20of%20etcd%20deployment%20on%20Kubernetes%2C%20Istio%2C%20and%20application%20performance%E3%80%8B.pdf)|《etcd部署对Kubernetes、Istio和应用程序性能的影响》| 瑞典隆德大学
+69|[《File Systems Unfit as Distributed Storage Back Ends》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AFile%20Systems%20Unfit%20as%20Distributed%20Storage%20Back%20Ends%E3%80%8B.pdf)|《文件系统不适合作为分布式存储后端》| 卡内基梅隆大学
+70|[《Building Reliable Distributed Systems》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8ABuilding%20Reliable%20Distributed%20Systems%E3%80%8B.pdf)|《建立可靠的分布式系统》| unknown
+71|[《Study of Container-Based Virtualisation and Threats in Fog Computing》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AStudy%20of%20Container-Based%20Virtualisation%20and%20Threats%20in%20Fog%20Computing%E3%80%8B.pdf)|《雾计算中基于容器的虚拟化与威胁研究》| 马来西亚苏邦查亚泰勒大学
+72|[《Test automation in microservice architecture》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8ATest%20automation%20in%20microservice%20architecture%E3%80%8B.pdf)|《微服务体系结构中的测试自动化》| 瓦尔纳管理大学
+73|[《Virtualization Using Docker Containers: For Reproducible Environments and Containerized Applications》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AVirtualization%20Using%20Docker%20Containers%20For%20Reproducible%20Environments%20and%20Containerized%20Applications%E3%80%8B.pdf)|《使用Docker容器的虚拟化:用于可重复环境和容器化应用程序》| 圣克劳德州立大学
+74|[《Oracle WebLogic Server on Docker Containers》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AOracle%20WebLogic%20Server%20on%20Docker%20Containers%E3%80%8B.pdf)|《Docker容器上的Oracle WebLogic服务器》| Oracle
+75|[《Ceph: A Scalable, High-Performance Distributed File System》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8ACeph%20A%20Scalable%2C%20High-Performance%20Distributed%20File%20System%E3%80%8B.pdf)|《一个可扩展的，高性能的分布式文件系统》| 加州大学圣克鲁兹分校
+76|[《Managing Applications in Docker Containers》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AManaging%20Applications%20in%20Docker%20Containers%E3%80%8B.pdf)|《管理Docker容器中的应用程序》| unknown
+77|[《RATATOSKR: WIDE-AREA ACTUATOR RPC OVER GRIDSTAT WITH TIMELINESS,REDUNDANCY, AND SAFETY》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8ARATATOSKR%20WIDE-AREA%20ACTUATOR%20RPC%20OVER%20GRIDSTAT%20WITH%20TIMELINESS%2CREDUNDANCY%2C%20AND%20SAFETY%E3%80%8B.pdf)|《Ratatoskr:广域执行器RPC over gridstat，具有及时性、冗余性和安全性》| 华盛顿州立大学
 78|[未完待续...]()|| 
 
 </div>
@@ -395,41 +395,41 @@ No.|Title|Translation（参考）|Company
   
 No.|Title|Translation（参考）|Company
 :-------: | :---------------: | :------------: | :-------:
-1|[《Cache Coherence Protocols in NUMA Multipro-cessors》]()|《NUMA多处理器中的缓存一致性协议》| unknown
-2|[《An Evaluation of Coarse-Grained Locking for Multicore Microkernels》]()|《一种用于多核微核的粗粒度锁定方法》| 澳大利亚联邦科学与工业研究组织
-3|[《VMPmonitor：An Efficient Modularity Approach for Hidden Process Detection》]()|《VMPmonitor:一种高效的模块化隐藏进程检测方法》|中国科学院
-4|[《SLAKE: Facilitating Slab Manipulation for Exploiting Vulnerabilities in the Linux Kernel》]()|《帮助Slab操作利用Linux内核中的漏洞》| 宾夕法尼亚州立大学
-5|[《RedHat Enterprise Linux NUMA support for HPEProLiant servers》]()|《RedHat Enterprise Linux NUMA支持HPEProLiant服务器》| RedHat
-6|[《The locking infrastructure in the FreeBSD kernel》]()|《FreeBSD内核中的锁定基础设施》| FreeBSD项目
-7|[《An Experimental Comparison Analysis of Kernel-level Memory Allocators》]()|《内核级内存分配器的实验比较分析》| 乌伯兰迪亚联邦大学
-8|[《Black-box Concurrent Data Structures for NUMA Architectures》]()|《用于NUMA架构的黑盒并发数据结构》| Microsoft,VMware
-9|[《An Evolutionary Study of Linux Memory Management for Fun and Profit》]()|《为了乐趣和利润的Linux内存管理的进化研究》| 佐治亚理工学院
-10|[《OpenPiton+Ariane: The First Open-Source, SMP Linux-booting RISC-V System Scaling From One to Many Cores》]()|《OpenPiton+Ariane:第一个开源，SMP linux引导的RISC-V系统从一个核扩展到多核》| 普林斯顿大学
-11|[《A Case for NUMA-aware Contention Management on Multicore Systems》]()|《多核系统中numa感知竞争管理的一个案例》| 西蒙弗雷泽大学
-12|[《The Slab Allocator:An Object-Caching Kernel Memory Allocator》]()|《Slab分配器:一个对象缓存内核内存分配器》| 太阳微系统公司
-13|[《Breaking the Big Lock:A Look at Symmetric Multiprocessing in UNIX》]()|《打破大锁:UNIX中的对称多处理》| unknown
-14|[《SMP Scalability Comparisons of Linux® Kernels 2.2.14 and 2.3.99》]()|《Linux®内核2.2.14和2.3.99的SMP可伸缩性比较》| IBM
-15|[《Linux kernel vulnerabilities:State-of-the-art defenses and open problems》]()|《Linux内核漏洞:最先进的防御和开放问题》| 清华大学
-16|[《Small Kernels Like Big Locks》]()|《小核如大锁》| unknown
-17|[《vScale: Automatic and Efficient Processor Scaling for SMP Virtual Machines》]()|《vScale: SMP虚拟机的自动高效处理器扩展》| Facebook
-18|[《The Linux Scheduler: a Decade of Wasted Cores》]()|《Linux调度器:浪费内核的十年》| 哥伦比亚大学
-19|[《Practical Safe Linux Kernel Extensibility》]()|《实用安全的Linux内核可扩展性》| 华盛顿大学
-20|[《High Performance Computing for Science and Engineering》]()|《面向科学与工程的高性能计算》| 费边Wermelinger计算科学与工程实验室
-21|[《Performance Analysis of UMA and NUMA Models》]()|《UMA和NUMA模型的性能分析》| 舒克拉大学
-22|[《KTLS: Linux Kernel Transport Layer Security》]()|《KTLS: Linux内核传输层安全》| Facebook
-23|[《Demystifying the Real-Time Linux Scheduling Latency》]()|《揭示实时Linux调度延迟》| 巴西圣卡塔琳娜联邦大学
-24|[《Linux multi-core scalability》]()|《Linux多核的可伸缩性》| Intel
-25|[《K-Miner: Uncovering Memory Corruption in Linux》]()|《K-Miner:揭示Linux中的内存崩溃》| CYSEC/达姆施塔特科技大学
-26|[《BKL: One Lock to Bind Them All》]()|《用一个锁把他们全部捆绑起来》| IBM
-27|[《NUMA aware heap memory manager》]()|《NUMA感知堆内存管理器》| unknown
-28|[《The real-time Linux kernel: a Survey on PREEMPT_RT》]()|《实时Linux内核:PREEMPT_RT综述》| 米兰理工大学
-29|[《Applications of RCU》]()|《应用RCU》| unknown
-30|[《Improving performance on NUMA systems》]()|《提高NUMA系统的性能》| HAL
-31|[《Linux Kernel Support for IEEE 1588 Hardware Timestamping》]()|《Linux内核支持IEEE 1588硬件时间戳》| unknown
+1|[《Cache Coherence Protocols in NUMA Multipro-cessors》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ACache%20Coherence%20Protocols%20in%20NUMA%20Multipro-cessors%E3%80%8B.pdf)|《NUMA多处理器中的缓存一致性协议》| unknown
+2|[《An Evaluation of Coarse-Grained Locking for Multicore Microkernels》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AAn%20Evaluation%20of%20Coarse-Grained%20Locking%20for%20Multicore%20Microkernels%E3%80%8B.pdf)|《一种用于多核微核的粗粒度锁定方法》| 澳大利亚联邦科学与工业研究组织
+3|[《VMPmonitor：An Efficient Modularity Approach for Hidden Process Detection》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AVMPmonitor%EF%BC%9AAn%20Efficient%20Modularity%20Approach%20for%20Hidden%20Process%20Detection%E3%80%8B.pdf)|《VMPmonitor:一种高效的模块化隐藏进程检测方法》|中国科学院
+4|[《SLAKE: Facilitating Slab Manipulation for Exploiting Vulnerabilities in the Linux Kernel》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ASLAKE%20Facilitating%20Slab%20Manipulation%20for%20Exploiting%20Vulnerabilities%20in%20the%20Linux%20Kernel%E3%80%8B.pdf)|《帮助Slab操作利用Linux内核中的漏洞》| 宾夕法尼亚州立大学
+5|[《RedHat Enterprise Linux NUMA support for HPEProLiant servers》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ARedHat%20Enterprise%20Linux%20NUMA%20support%20for%20HPEProLiant%20servers%E3%80%8B.pdf)|《RedHat Enterprise Linux NUMA支持HPEProLiant服务器》| RedHat
+6|[《The locking infrastructure in the FreeBSD kernel》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AThe%20locking%20infrastructure%20in%20the%20FreeBSD%20kernel%E3%80%8B.pdf)|《FreeBSD内核中的锁定基础设施》| FreeBSD项目
+7|[《An Experimental Comparison Analysis of Kernel-level Memory Allocators》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AAn%20Experimental%20Comparison%20Analysis%20of%20Kernel-level%20Memory%20Allocators%E3%80%8B.pdf)|《内核级内存分配器的实验比较分析》| 乌伯兰迪亚联邦大学
+8|[《Black-box Concurrent Data Structures for NUMA Architectures》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ABlack-box%20Concurrent%20Data%20Structures%20for%20NUMA%20Architectures%E3%80%8B.pdf)|《用于NUMA架构的黑盒并发数据结构》| Microsoft,VMware
+9|[《An Evolutionary Study of Linux Memory Management for Fun and Profit》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AAn%20Evolutionary%20Study%20of%20Linux%20Memory%20Management%20for%20Fun%20and%20Profit%E3%80%8B.pdf)|《为了乐趣和利润的Linux内存管理的进化研究》| 佐治亚理工学院
+10|[《OpenPiton+Ariane: The First Open-Source, SMP Linux-booting RISC-V System Scaling From One to Many Cores》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AOpenPiton%2BAriane%20The%20First%20Open-Source%2C%20SMP%20Linux-booting%20RISC-V%20System%20Scaling%20From%20One%20to%20Many%20Cores%E3%80%8B.pdf)|《OpenPiton+Ariane:第一个开源，SMP linux引导的RISC-V系统从一个核扩展到多核》| 普林斯顿大学
+11|[《A Case for NUMA-aware Contention Management on Multicore Systems》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AA%20Case%20for%20NUMA-aware%20Contention%20Management%20on%20Multicore%20Systems%E3%80%8B.pdf)|《多核系统中numa感知竞争管理的一个案例》| 西蒙弗雷泽大学
+12|[《The Slab Allocator:An Object-Caching Kernel Memory Allocator》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AThe%20Slab%20AllocatorAn%20Object-Caching%20Kernel%20Memory%20Allocator%E3%80%8B.pdf)|《Slab分配器:一个对象缓存内核内存分配器》| 太阳微系统公司
+13|[《Breaking the Big Lock:A Look at Symmetric Multiprocessing in UNIX》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ABreaking%20the%20Big%20LockA%20Look%20at%20Symmetric%20Multiprocessing%20in%20UNIX%E3%80%8B.pdf)|《打破大锁:UNIX中的对称多处理》| unknown
+14|[《SMP Scalability Comparisons of Linux® Kernels 2.2.14 and 2.3.99》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ASMP%20Scalability%20Comparisons%20of%20Linux%C2%AE%20Kernels%202.2.14%20and%202.3.99%E3%80%8B.pdf)|《Linux®内核2.2.14和2.3.99的SMP可伸缩性比较》| IBM
+15|[《Linux kernel vulnerabilities:State-of-the-art defenses and open problems》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ALinux%20kernel%20vulnerabilitiesState-of-the-art%20defenses%20and%20open%20problems%E3%80%8B.pdf)|《Linux内核漏洞:最先进的防御和开放问题》| 清华大学
+16|[《Small Kernels Like Big Locks》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ASmall%20Kernels%20Like%20Big%20Locks%E3%80%8B.pdf)|《小核如大锁》| unknown
+17|[《vScale: Automatic and Efficient Processor Scaling for SMP Virtual Machines》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AvScale%20Automatic%20and%20Efficient%20Processor%20Scaling%20for%20SMP%20Virtual%20Machines%E3%80%8B.pdf)|《vScale: SMP虚拟机的自动高效处理器扩展》| Facebook
+18|[《The Linux Scheduler: a Decade of Wasted Cores》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AThe%20Linux%20Scheduler%20a%20Decade%20of%20Wasted%20Cores%E3%80%8B.pdf)|《Linux调度器:浪费内核的十年》| 哥伦比亚大学
+19|[《Practical Safe Linux Kernel Extensibility》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8APractical%20Safe%20Linux%20Kernel%20Extensibility%E3%80%8B.pdf)|《实用安全的Linux内核可扩展性》| 华盛顿大学
+20|[《High Performance Computing for Science and Engineering》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AHigh%20Performance%20Computing%20for%20Science%20and%20Engineering%E3%80%8B.pdf)|《面向科学与工程的高性能计算》| 费边Wermelinger计算科学与工程实验室
+21|[《Performance Analysis of UMA and NUMA Models》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8APerformance%20Analysis%20of%20UMA%20and%20NUMA%20Models%E3%80%8B.pdf)|《UMA和NUMA模型的性能分析》| 舒克拉大学
+22|[《KTLS: Linux Kernel Transport Layer Security》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AKTLS%20Linux%20Kernel%20Transport%20Layer%20Security%E3%80%8B.pdf)|《KTLS: Linux内核传输层安全》| Facebook
+23|[《Demystifying the Real-Time Linux Scheduling Latency》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ADemystifying%20the%20Real-Time%20Linux%20Scheduling%20Latency%E3%80%8B.pdf)|《揭示实时Linux调度延迟》| 巴西圣卡塔琳娜联邦大学
+24|[《Linux multi-core scalability》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ALinux%20multi-core%20scalability%E3%80%8B.pdf)|《Linux多核的可伸缩性》| Intel
+25|[《K-Miner: Uncovering Memory Corruption in Linux》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AK-Miner%20Uncovering%20Memory%20Corruption%20in%20Linux%E3%80%8B.pdf)|《K-Miner:揭示Linux中的内存崩溃》| CYSEC/达姆施塔特科技大学
+26|[《BKL: One Lock to Bind Them All》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ABKL%20One%20Lock%20to%20Bind%20Them%20All%E3%80%8B.pdf)|《用一个锁把他们全部捆绑起来》| IBM
+27|[《NUMA aware heap memory manager》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ANUMA%20aware%20heap%20memory%20manager%E3%80%8B.pdf)|《NUMA感知堆内存管理器》| unknown
+28|[《The real-time Linux kernel: a Survey on PREEMPT_RT》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AThe%20real-time%20Linux%20kernel%20a%20Survey%20on%20PREEMPT_RT%E3%80%8B.pdf)|《实时Linux内核:PREEMPT_RT综述》| 米兰理工大学
+29|[《Applications of RCU》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AApplications%20of%20RCU%E3%80%8B.pdf)|《应用RCU》| unknown
+30|[《Improving performance on NUMA systems》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AImproving%20performance%20on%20NUMA%20systems%E3%80%8B.pdf)|《提高NUMA系统的性能》| HAL
+31|[《Linux Kernel Support for IEEE 1588 Hardware Timestamping》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ALinux%20Kernel%20Support%20for%20IEEE%201588%20Hardware%20Timestamping%E3%80%8B.pdf)|《Linux内核支持IEEE 1588硬件时间戳》| unknown
 32|[《Research of Performance Linux Kernel File Systems》]()|《Linux内核文件系统性能研究》| 
-33|[《Slab allocators in the Linux Kernel:SLAB, SLOB, SLUB》]()|《Linux内核中的Slab分配器:Slab、SLOB、SLUB》| unknown
-34|[《Magazines and Vmem:Extending the Slab Allocator to Many CPUs and Arbitrary Resources》]()|《将Slab分配器扩展到多个cpu和任意资源》| 加州理工学院
-35|[《Understanding TheLinux Virtual Memory Manager》]()|《理解linux虚拟内存管理器》| unknown
+33|[《Slab allocators in the Linux Kernel:SLAB, SLOB, SLUB》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8ASlab%20allocators%20in%20the%20Linux%20KernelSLAB%2C%20SLOB%2C%20SLUB%E3%80%8B.pdf)|《Linux内核中的Slab分配器:Slab、SLOB、SLUB》| unknown
+34|[《Magazines and Vmem:Extending the Slab Allocator to Many CPUs and Arbitrary Resources》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AMagazines%20and%20VmemExtending%20the%20Slab%20Allocator%20to%20Many%20CPUs%20and%20Arbitrary%20Resources%E3%80%8B.pdf)|《将Slab分配器扩展到多个cpu和任意资源》| 加州理工学院
+35|[《Understanding TheLinux Virtual Memory Manager》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AUnderstanding%20TheLinux%20Virtual%20Memory%20Manager%E3%80%8B.pdf)|《理解linux虚拟内存管理器》| unknown
 36|[未完待续...]()|| 
   
 </div>
