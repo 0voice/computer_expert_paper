@@ -477,5 +477,5 @@ No.|Title|Translation（参考）|Company
 
 ![大纲部分图.png](https://img11.360buyimg.com/ddimg/jfs/t1/37229/14/15620/149708/60e6a78eE5241eec1/d0f0c9d9aa1e4d99.png)
 
-#### 每天晚上免费直播分享，扫描获取直播链接【备注：GitHub论文】<br>
+#### 每天晚上8点免费直播技术分享，扫描获取直播链接【备注：GitHub论文】<br>
 ![barcode](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
