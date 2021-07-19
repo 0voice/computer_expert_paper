@@ -240,7 +240,7 @@ No.|Title|Translation（参考）|Company
 29|[《The Problem of Mutual Exclusion A New Distributed Solution》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AThe%20Problem%20of%20Mutual%20Exclusion%20A%20New%20Distributed%20Solution%E3%80%8B.pdf)|《互斥问题一种新的分布式解决方案》| 弗吉尼亚联邦大学
 30|[《Hashed and Hierarchical Timing Wheels: Efficient Data Structures for Implementing a Timer Facility》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AHashed%20and%20Hierarchical%20Timing%20Wheels%20Efficient%20Data%20Structures%20for%20Implementing%20a%20Timer%20Facility%E3%80%8B.pdf)|《哈希和分层计时轮:实现计时器设施的有效数据结构》| unknown
 31|[《Using Protocol Buffers for Resource-Constrained Distributed Embedded Systems》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AUsing%20Protocol%20Buffers%20for%20Resource-Constrained%20Distributed%20Embedded%20Systems%E3%80%8B.pdf)|《在资源受限的分布式嵌入式系统中使用协议缓冲区》| 德国慕尼黑工业大学
-21|[未完待续...]()|| 
+32|[未完待续...]()|| 
 
 </div>
 
