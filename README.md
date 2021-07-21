@@ -196,7 +196,30 @@ No.|Title|Translation（参考）|Company
 74|[《TrapezeIP TCP/IP at Near-Gigabit Speeds》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8ATrapezeIP%20TCPIP%20at%20Near-Gigabit%20Speeds%E3%80%8B.pdf)|《trapzeip TCP/IP在近千兆速度》|杜克大学
 75|[《User Space Network Drivers》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AUser%20Space%20Network%20Drivers%E3%80%8B.pdf)|《用户空间网络驱动程序》|慕尼黑工业大学
 76|[《Using TCP/IP traffic shaping to achieve iSCSI service predictability》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/%E3%80%8AUsing%20TCPIP%20traffic%20shaping%20to%20achieve%20iSCSI%20service%20predictability%E3%80%8B.pdf)|《使用TCP/IP流量整形来实现iSCSI服务可预测性》|奥斯陆大学
-77|[未完待续...]()||
+77|[《TCPIP Acceleration for Telco Cloud》]()|《TCP/IP加速电信云》|阿尔托大学理学院
+78|[《An Experimental review on Intel DPDK L2 Forwarding》]()|《Intel DPDK L2转发实验综述》|印度卡纳塔克邦迈索尔路R.V.工程学院
+79|[《DPDK based Improvement of Packet Forwarding》]()|《基于DPDK的报文转发改进》|北京科技大学
+80|[《A Simpler and Faster NIC Driver Model for Network Functions》]()|《网络函数的一个更简单和更快的网卡驱动模型》|瑞士洛桑联邦理工学院
+81|[《intel dpdk vsphere solution brief》]()|《Intel DPDK vsphere解决方案简介》|VMware
+82|[《View on 5G Architecture》]()|《对5G架构的看法》|5GPPP架构工作组
+83|[《Virtual Switch Acceleration with OVS-TC》]()|《OVS-TC虚拟交换机加速》|Netronome
+84|[《FloWatcher-DPDK: lightweight line-rate flow-level monitoring in software》]()|《FloWatcher-DPDK:软件中轻量级的线速率流量级监测》| IEEE
+85|[《An Adaptive Throughput-First Packet Scheduling Algorithm for DPDK-Based Packet Processing Systems》]()|《一种基于dpdq的自适应吞吐量优先包调度算法》|unknown
+86|[《A Scriptable High-Speed Packet Generator》]()|《一个可编写脚本的高速数据包生成器》|慕尼黑技术大学
+87|[《A Software NIC to Augment Hardware》]()|《用于增强硬件的软网卡》|加州大学伯克利分校
+88|[《A Centralized “Zero-Queue” Datacenter Network》]()|《集中式“零队列”数据中心网络》|麻省理工学院计算机科学与人工智能实验室、Facebook
+89|[《Towards including batch services in models for DPDK-based virtual switches》]()|《在基于dpdk的虚拟交换机模型中包括批处理服务》|HAL
+90|[《Network Functions Virtualisation》]()|《网络虚拟化功能》|AT&T、China Mobile
+91|[《ShieldBox: Secure Middleboxes using Shielded Execution》]()|《使用屏蔽执行的安全中间件》|爱丁堡大学
+92|[《Developing DPDK-Accelerated Virtual Switch Solutions for Cloud Service Providers》]()|《为云服务提供商开发dpdk加速虚拟交换机解决方案》|intel
+93|[《A High-Performance Implementation of an IoT System Using DPDK》]()|《使用DPDK的物联网系统的高性能实现》|unknown
+94|[《A Comprehensive Overview of TCP Congestion Control in 5G Networks: Research Challenges and Future Perspectives》]()|《5G网络中TCP拥塞控制的全面综述:研究挑战和未来展望》|斯普利特大学
+95|[《Virtual Router Design and Modeling for Future Networks with QoS Guarantees》]()|《具有QoS保证的未来网络的虚拟路由器设计与建模》|利沃夫理工国立大学
+96|[《Scalable TCP Throughput Limitation Monitoring》]()|《可扩展TCP吞吐量限制监控》|慕尼黑工业大学
+97|[《adaptive and precise intermittent packet retrieval in DPDK》]()|《自适应和精确的间歇数据包检索DPDK》|罗马大学托尔维加塔分校
+98|[《Exploiting DPDK in Containerized Environment with Unsupported Hardware》]()|《在不支持硬件的容器化环境下开发DPDK》|米兰理工大学
+99|[《UHD-DPDK Performance Analysis for Advanced Software Radio Communications》]()|《高级软件无线电通信的UHD-DPDK性能分析》|密西西比州立大学
+100|[《An Experiment of Container Networking using OpenVSwitch-DPDK》]()|《基于OpenVSwitch-DPDK的容器组网实验》|进程大学
 
   
 </div>
