@@ -477,6 +477,29 @@ No.|Title|Translation（参考）|Company
 
 ---
 
+### 期待你的加入
+
+##### 为了让我们的repo内容更加的丰富，更加的专业。欢迎大家贡献patch，希望大家在issue里面出谋划策，我们期待你的加入。
+
+<a href="https://github.com/wangbojing">
+    <img src="https://avatars.githubusercontent.com/u/18027560?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/wenchao1024">
+    <img src="https://avatars.githubusercontent.com/u/87457873?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/410974689">
+    <img src="https://avatars.githubusercontent.com/u/20748764?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/xiaoMinC">
+    <img src="https://avatars.githubusercontent.com/u/18284102?v=4" width="40px">
+</a> 
+
+
+---
+
 <h3 id="22">联系专栏</h3> 
 
 #### 零声教育，专注于c/c++Linux后台服务器开发架构技术学习提升。<br>
