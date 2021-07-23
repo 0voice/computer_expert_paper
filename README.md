@@ -280,7 +280,7 @@ No.|Title|Translation（参考）|Company
 46|[《Real-Time Stream Processing in Java》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AReal-Time%20Stream%20Processing%20in%20Java%E3%80%8B.pdf)|《Java中的实时流处理》| 约克大学
 47|[《libcppa - Designing an Actor Semantic for C++11》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8Alibcppa%20-%20Designing%20an%20Actor%20Semantic%20for%20C%2B%2B11%E3%80%8B.pdf)|《libcppa -为c++ 11设计一个Actor语义》|unknown
 48|[《Performance Analysis and Evaluation of Database Connection Pool Technology Based on Queueing Model》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8APerformance%20Analysis%20and%20Evaluation%20of%20Database%20Connection%20Pool%20Technology%20Based%20on%20Queueing%20Model%E3%80%8B.pdf)|《基于排队模型的数据库连接池技术性能分析与评估》|河南理工大学计算机科学与技术学院
-49|[未完待续...]()|《》|
+49|[未完待续...]()||
 
 </div>
 
