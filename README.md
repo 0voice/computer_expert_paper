@@ -355,7 +355,7 @@ No.|Title|Translation（参考）|Company
 58|[《Using Internal MySQL InnoDB B-Tree Index Navigation for Data Hiding》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AUsing%20Internal%20MySQL%20InnoDB%20B-Tree%20Index%20Navigation%20for%20Data%20Hiding%E3%80%8B.pdf)|《使用内部MySQL InnoDB B-Tree索引导航的数据隐藏》| HAL
 59|[《Realization of the Low Cost and High Performance MySQL Cloud Database》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ARealization%20of%20the%20Low%20Cost%20and%20High%20Performance%20MySQL%20Cloud%20Database%E3%80%8B.pdf)|《低成本、高性能MySQL云数据库的实现》| 阿里巴巴
 60|[《Full-Text Search Engine using MySQL》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AFull-Text%20Search%20Engine%20using%20MySQL%E3%80%8B.pdf)|《全文搜索引擎使用MySQL》| Oradea大学
-61|[未完待续...]()|《》|
+61|[未完待续...]()||
 
 </div>
   
