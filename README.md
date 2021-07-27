@@ -288,7 +288,6 @@ No.|Title|Translation（参考）|Company
 46|[《Real-Time Stream Processing in Java》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8AReal-Time%20Stream%20Processing%20in%20Java%E3%80%8B.pdf)|《Java中的实时流处理》| 约克大学
 47|[《libcppa - Designing an Actor Semantic for C++11》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8Alibcppa%20-%20Designing%20an%20Actor%20Semantic%20for%20C%2B%2B11%E3%80%8B.pdf)|《libcppa -为c++ 11设计一个Actor语义》|unknown
 48|[《Performance Analysis and Evaluation of Database Connection Pool Technology Based on Queueing Model》](https://github.com/0voice/computer_expert_paper/blob/main/%E7%89%9BB%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/%E3%80%8APerformance%20Analysis%20and%20Evaluation%20of%20Database%20Connection%20Pool%20Technology%20Based%20on%20Queueing%20Model%E3%80%8B.pdf)|《基于排队模型的数据库连接池技术性能分析与评估》|河南理工大学计算机科学与技术学院
-49|[未完待续...]()||
 
 </div>
 
@@ -363,7 +362,6 @@ No.|Title|Translation（参考）|Company
 58|[《Using Internal MySQL InnoDB B-Tree Index Navigation for Data Hiding》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AUsing%20Internal%20MySQL%20InnoDB%20B-Tree%20Index%20Navigation%20for%20Data%20Hiding%E3%80%8B.pdf)|《使用内部MySQL InnoDB B-Tree索引导航的数据隐藏》| HAL
 59|[《Realization of the Low Cost and High Performance MySQL Cloud Database》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8ARealization%20of%20the%20Low%20Cost%20and%20High%20Performance%20MySQL%20Cloud%20Database%E3%80%8B.pdf)|《低成本、高性能MySQL云数据库的实现》| 阿里巴巴
 60|[《Full-Text Search Engine using MySQL》](https://github.com/0voice/computer_expert_paper/blob/main/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BE%88%E9%87%8D%E8%A6%81/%E3%80%8AFull-Text%20Search%20Engine%20using%20MySQL%E3%80%8B.pdf)|《全文搜索引擎使用MySQL》| Oradea大学
-61|[未完待续...]()||
 
 </div>
   
@@ -451,7 +449,6 @@ No.|Title|Translation（参考）|Company
 75|[《Ceph: A Scalable, High-Performance Distributed File System》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8ACeph%20A%20Scalable%2C%20High-Performance%20Distributed%20File%20System%E3%80%8B.pdf)|《一个可扩展的，高性能的分布式文件系统》| 加州大学圣克鲁兹分校
 76|[《Managing Applications in Docker Containers》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8AManaging%20Applications%20in%20Docker%20Containers%E3%80%8B.pdf)|《管理Docker容器中的应用程序》| unknown
 77|[《RATATOSKR: WIDE-AREA ACTUATOR RPC OVER GRIDSTAT WITH TIMELINESS,REDUNDANCY, AND SAFETY》](https://github.com/0voice/computer_expert_paper/blob/main/%E9%AB%98%E5%A4%A7%E4%B8%8A%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F/%E3%80%8ARATATOSKR%20WIDE-AREA%20ACTUATOR%20RPC%20OVER%20GRIDSTAT%20WITH%20TIMELINESS%2CREDUNDANCY%2C%20AND%20SAFETY%E3%80%8B.pdf)|《Ratatoskr:广域执行器RPC over gridstat，具有及时性、冗余性和安全性》| 华盛顿州立大学
-78|[未完待续...]()|| 
 
 </div>
 
@@ -507,7 +504,6 @@ No.|Title|Translation（参考）|Company
 42|[《Overview of Linux Vulnerabilities》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AOverview%20of%20Linux%20Vulnerabilities%E3%80%8B.pdf)|《Linux漏洞概述》| 国家电网HAEPC电力研究所
 43|[《IO Performance Isolation Analysis and Optimization on Linux Containers》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AIO%20Performance%20Isolation%20Analysis%20and%20Optimization%20on%20Linux%20Containers%E3%80%8B.pdf)|《Linux容器上的IO性能隔离分析与优化》| 杭州电子科技大学计算机科学学院
 44|[《Implementation of DPDK based TCPIP protocols stack for OS Linux》](https://github.com/0voice/computer_expert_paper/blob/main/%E6%8E%A5%E8%BF%91%E5%8E%9F%E5%A7%8B%E7%9A%84LinuxOS/%E3%80%8AImplementation%20of%20DPDK%20based%20TCPIP%20protocols%20stack%20for%20OS%20Linux%E3%80%8B.pdf)|《Linux下基于DPDK的TCPIP协议栈的实现》| 利沃夫理工大学
-45|[未完待续...]()|| 
   
 </div>
   
