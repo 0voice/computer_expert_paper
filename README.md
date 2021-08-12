@@ -14,6 +14,12 @@
 
 </div>
 
+## 📢 重磅消息 —— 更多资源repo：
+
+* **[最全空降Golang资料补给包（满血战斗）](https://github.com/0voice/Introduction-to-Golang)**
+* **[Linux内核学习资料](https://github.com/0voice/linux_kernel_wiki)**
+* **[5000道秋招/提前批/春招/常用面试题（含答案）](https://github.com/0voice/campus_recruitmen_questions)**
+
 ## 写给正在努力地你：
 
 #### 保持眼界开阔和脚步向前，你就会找到你需要的一切。
